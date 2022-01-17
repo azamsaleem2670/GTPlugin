@@ -1,6 +1,13 @@
 {
+    "Advertisement": {
+        "AppID": "4565947",
+        "BannerAd": {
+            "BannerID": "Banner_Android",
+            "bannerPosition": 1
+        }
+    },
     "Analytics": {
-        "AndroidKey": "MNFGYPTNWC5ZNZZFQYBP",
+        "AndroidKey": "BK4GVCSXKWHP75RY7MQR",
         "iOSKey": ""
     }
 }
