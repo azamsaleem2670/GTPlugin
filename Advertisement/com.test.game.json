@@ -1,6 +1,7 @@
 {
     "Advertisement": {
         "AppID": "4565947",
+        "AdType": 0,
         "BannerAd": {
             "BannerID": "Banner_Android",
             "bannerPosition": 1
