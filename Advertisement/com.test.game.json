@@ -5,7 +5,19 @@
         "BannerAd": {
             "BannerID": "Banner_Android",
             "bannerPosition": 1
-        }
+        },
+        "AdUnits": [
+            {
+                "Name": "Interstitial",
+                "Type": 0,
+                "AdUnitID": "Interstitial_Android"
+            },
+            {
+                "Name": "Rewarded",
+                "Type": 1,
+                "AdUnitID": "Rewarded_Android"
+            }
+        ]
     },
     "Analytics": {
         "AndroidKey": "BK4GVCSXKWHP75RY7MQR",
