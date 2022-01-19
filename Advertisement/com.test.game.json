@@ -1,6 +1,7 @@
 {
     "Advertisement": [
         {
+            "Name": "Unity Ads",
             "AppID": "4565947",
             "Network": 0,
             "BannerAd": {
@@ -21,6 +22,7 @@
             ]
         },
         {
+            "Name": "Google Admob",
             "AppID": "ca-app-pub-3940256099942544/3419835294",
             "Network": 1,
             "BannerAd": {
