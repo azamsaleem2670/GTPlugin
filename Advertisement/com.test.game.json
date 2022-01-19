@@ -1,24 +1,46 @@
 {
-    "Advertisement": {
-        "AppID": "4565947",
-        "Network": 0,
-        "BannerAd": {
-            "BannerID": "Banner_Android",
-            "bannerPosition": 1
-        },
-        "AdUnits": [
-            {
-                "Name": "Interstitial",
-                "Type": 0,
-                "AdUnitID": "Interstitial_Android"
+    "Advertisement": [
+        {
+            "AppID": "4565947",
+            "Network": 0,
+            "BannerAd": {
+                "BannerID": "Banner_Android",
+                "bannerPosition": 1
             },
-            {
-                "Name": "Rewarded",
-                "Type": 1,
-                "AdUnitID": "Rewarded_Android"
-            }
-        ]
-    },
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "Type": 0,
+                    "AdUnitID": "Interstitial_Android"
+                },
+                {
+                    "Name": "Rewarded",
+                    "Type": 1,
+                    "AdUnitID": "Rewarded_Android"
+                }
+            ]
+        },
+        {
+            "AppID": "ca-app-pub-3940256099942544/3419835294",
+            "Network": 1,
+            "BannerAd": {
+                "BannerID": "ca-app-pub-3940256099942544/6300978111",
+                "bannerPosition": 1
+            },
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "Type": 0,
+                    "AdUnitID": "ca-app-pub-3940256099942544/1033173712"
+                },
+                {
+                    "Name": "Rewarded",
+                    "Type": 1,
+                    "AdUnitID": "ca-app-pub-3940256099942544/5224354917"
+                }
+            ]
+        }
+    ],
     "Analytics": {
         "AndroidKey": "BK4GVCSXKWHP75RY7MQR",
         "iOSKey": ""
