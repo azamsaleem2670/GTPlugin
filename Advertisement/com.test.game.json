@@ -25,7 +25,7 @@
             ]
         },
         {
-            "Name": "UnityAd",
+            "Name": "GoogleAdmob",
             "AppId": "ca-app-pub-3940256099942544/3419835294",
             "AdUnits": [
                 {
