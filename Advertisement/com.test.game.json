@@ -8,25 +8,25 @@
     "AdNetworks": [
         {
             "Name": "UnityAd",
-            "AppId": "ca-app-pub-6514041450334421~9394624502",
+            "AppId": "4565947",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
-                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
+                    "AdUnitId": "Interstitial_Android"
                 },
                 {
                     "Name": "Rewarded",
-                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
+                    "AdUnitId": "Rewarded_Android"
                 },
                 {
                     "Name": "RewardedInterstitial",
-                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
+                    "AdUnitId": ""
                 }
             ]
         },
         {
-            "Name": "GoogleAdmob",
-            "AppId": "ca-app-pub-6514041450334421~9394624502",
+            "Name": "UnityAd",
+            "AppId": "ca-app-pub-3940256099942544/3419835294",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
