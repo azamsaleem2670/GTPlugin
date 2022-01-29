@@ -1,7 +1,118 @@
 {
-    "AppID": "ca-app-pub-3940256099942544/3419835294",
-    "BannerID": "ca-app-pub-3940256099942544/6300978111",
-    "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
-    "RewardedID": "ca-app-pub-3940256099942544/5224354917",
-    "RewardedInterstitialID": "ca-app-pub-3940256099942544/5354046379"
+    "Banner": {
+        "AdNetwork": 2,
+        "BannerId": "ca-app-pub-3940256099942544/6300978111",
+        "Size": 0,
+        "Position": 1
+    },
+    "AdNetworks": [
+        {
+            "Name": "UnityAd",
+            "AppId": "ca-app-pub-6514041450334421~9394624502",
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
+                },
+                {
+                    "Name": "Rewarded",
+                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
+                },
+                {
+                    "Name": "RewardedInterstitial",
+                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
+                }
+            ]
+        },
+        {
+            "Name": "GoogleAdmob",
+            "AppId": "ca-app-pub-6514041450334421~9394624502",
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
+                },
+                {
+                    "Name": "Rewarded",
+                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
+                },
+                {
+                    "Name": "RewardedInterstitial",
+                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
+                }
+            ]
+        }
+    ],
+    "AdEvents": [
+        {
+            "Name": "Play",
+            "AdNewtorks": [
+                1,
+                2
+            ]
+        },
+        {
+            "Name": "Setting",
+            "AdNewtorks": [
+                1,
+                2
+            ]
+        },
+        {
+            "Name": "Loading",
+            "AdNewtorks": [
+                1,
+                2
+            ]
+        },
+        {
+            "Name": "LevelPlay",
+            "AdNewtorks": [
+                1,
+                2
+            ]
+        },
+        {
+            "Name": "LevelComplete",
+            "AdNewtorks": [
+                1,
+                2
+            ]
+        },
+        {
+            "Name": "LevelFailed",
+            "AdNewtorks": [
+                1,
+                2
+            ]
+        },
+        {
+            "Name": "Pause",
+            "AdNewtorks": [
+                1,
+                2
+            ]
+        },
+        {
+            "Name": "Home",
+            "AdNewtorks": [
+                1,
+                2
+            ]
+        },
+        {
+            "Name": "Rewarded",
+            "AdNewtorks": [
+                1,
+                2
+            ]
+        },
+        {
+            "Name": "RewardedInterstitial",
+            "AdNewtorks": [
+                1,
+                2
+            ]
+        }
+    ]
 }
