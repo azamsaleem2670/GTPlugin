@@ -1,7 +1,10 @@
 {
     "Ids": {
         "AppId": "4565947",
-        "Banner": "Banner_Android",
+        "Banner": {
+            "BannerId": "Banner_Android",
+            "BannerPosition": 4
+        },
         "Interstitial": "Interstitial_Android",
         "RewardedAd": "Rewarded_Android"
     },
