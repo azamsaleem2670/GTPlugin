@@ -1,118 +1,80 @@
 {
-    "Banner": {
-        "AdNetwork": 2,
-        "BannerId": "ca-app-pub-3940256099942544/6300978111",
-        "Size": 0,
-        "Position": 1
+    "Ids": {
+        "AppId": "4565947",
+        "Banner": "Banner_Android",
+        "Interstitial": "Interstitial_Android",
+        "RewardedAd": "Rewarded_Android"
     },
-    "AdNetworks": [
+    "AdEventUnits": [
         {
-            "Name": "UnityAd",
-            "AppId": "4565947",
-            "AdUnits": [
-                {
-                    "Name": "Interstitial",
-                    "AdUnitId": "Interstitial_Android"
-                },
-                {
-                    "Name": "Rewarded",
-                    "AdUnitId": "Rewarded_Android"
-                },
-                {
-                    "Name": "RewardedInterstitial",
-                    "AdUnitId": ""
-                }
-            ]
+            "Name": "GameStart",
+            "Event": 0,
+            "Enabled": true
         },
         {
-            "Name": "GoogleAdmob",
-            "AppId": "ca-app-pub-3940256099942544/3419835294",
-            "AdUnits": [
-                {
-                    "Name": "Interstitial",
-                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
-                },
-                {
-                    "Name": "Rewarded",
-                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
-                },
-                {
-                    "Name": "RewardedInterstitial",
-                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
-                }
-            ]
-        }
-    ],
-    "AdEvents": [
-        {
-            "Name": "Play",
-            "AdNewtorks": [
-                1,
-                2
-            ]
+            "Name": "PlayBtn",
+            "Event": 1,
+            "Enabled": true
         },
         {
-            "Name": "Setting",
-            "AdNewtorks": [
-                1,
-                2
-            ]
+            "Name": "SettingBtn",
+            "Event": 2,
+            "Enabled": true
         },
         {
-            "Name": "Loading",
-            "AdNewtorks": [
-                1,
-                2
-            ]
+            "Name": "Exit",
+            "Event": 3,
+            "Enabled": true
         },
         {
-            "Name": "LevelPlay",
-            "AdNewtorks": [
-                1,
-                2
-            ]
+            "Name": "LevelSelect",
+            "Event": 4,
+            "Enabled": true
         },
         {
-            "Name": "LevelComplete",
-            "AdNewtorks": [
-                1,
-                2
-            ]
+            "Name": "ItemSelect",
+            "Event": 5,
+            "Enabled": true
         },
         {
-            "Name": "LevelFailed",
-            "AdNewtorks": [
-                1,
-                2
-            ]
+            "Name": "TeamSelect",
+            "Event": 6,
+            "Enabled": true
+        },
+        {
+            "Name": "StoreOpen",
+            "Event": 7,
+            "Enabled": true
         },
         {
             "Name": "Pause",
-            "AdNewtorks": [
-                1,
-                2
-            ]
+            "Event": 8,
+            "Enabled": true
         },
         {
             "Name": "Home",
-            "AdNewtorks": [
-                1,
-                2
-            ]
+            "Event": 9,
+            "Enabled": true
         },
         {
-            "Name": "Rewarded",
-            "AdNewtorks": [
-                1,
-                2
-            ]
+            "Name": "Next",
+            "Event": 10,
+            "Enabled": true
         },
         {
-            "Name": "RewardedInterstitial",
-            "AdNewtorks": [
-                1,
-                2
-            ]
+            "Name": "Retry",
+            "Event": 11,
+            "Enabled": true
+        },
+        {
+            "Name": "LevelComplete",
+            "Event": 12,
+            "Enabled": true
+        },
+        {
+            "Name": "LevelFail",
+            "Event": 13,
+            "Enabled": true
         }
     ]
 }
