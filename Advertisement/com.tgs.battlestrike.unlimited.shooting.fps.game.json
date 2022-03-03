@@ -1,6 +1,6 @@
 {
     "Ids": {
-        "AppId": "4565947",
+        "AppId": "4631787",
         "Banner": {
             "BannerId": "Banner_Android",
             "BannerPosition": 4
@@ -42,12 +42,12 @@
         {
             "Name": "TeamSelect",
             "Event": 6,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "StoreOpen",
             "Event": 7,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Pause",
@@ -57,7 +57,7 @@
         {
             "Name": "Home",
             "Event": 9,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Next",
