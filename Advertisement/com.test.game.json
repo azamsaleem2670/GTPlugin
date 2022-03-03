@@ -1,83 +1,126 @@
 {
-    "Ids": {
-        "AppId": "4565947",
-        "Banner": {
-            "BannerId": "Banner_Android",
-            "BannerPosition": 4
-        },
-        "Interstitial": "Interstitial_Android",
-        "RewardedAd": "Rewarded_Android"
+    "Banner": {
+        "AdNetwork": 2,
+        "BannerId": "ca-app-pub-3940256099942544/6300978111",
+        "Size": 0,
+        "Position": 1
     },
-    "AdEventUnits": [
+    "Advertisement": [
+        {
+            "Name": "UnityAd",
+            "AdNetwork": 1,
+            "AppId": "4565947",
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "Type": 0,
+                    "AdUnitId": "Interstitial_Android"
+                },
+                {
+                    "Name": "Rewarded",
+                    "Type": 1,
+                    "AdUnitId": "Rewarded_Android"
+                }
+            ]
+        },
+        {
+            "Name": "GoogleAdmob",
+            "AdNetwork": 2,
+            "AppId": "ca-app-pub-3940256099942544/3419835294",
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "Type": 0,
+                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
+                },
+                {
+                    "Name": "Rewarded",
+                    "Type": 1,
+                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
+                }
+            ]
+        }
+    ],
+    "Events": [
         {
             "Name": "GameStart",
-            "Event": 0,
-            "Enabled": true
+            "AdEvent": 0,
+            "AdNewtork": 2
         },
         {
             "Name": "PlayBtn",
-            "Event": 1,
-            "Enabled": true
+            "AdEvent": 1,
+            "AdNewtork": 1
         },
         {
             "Name": "SettingBtn",
-            "Event": 2,
-            "Enabled": true
+            "AdEvent": 2,
+            "AdNewtork": 2
         },
         {
             "Name": "Exit",
-            "Event": 3,
-            "Enabled": true
+            "AdEvent": 3,
+            "AdNewtork": 1
         },
         {
             "Name": "LevelSelect",
-            "Event": 4,
-            "Enabled": true
+            "AdEvent": 4,
+            "AdNewtork": 2
         },
         {
             "Name": "ItemSelect",
-            "Event": 5,
-            "Enabled": true
+            "AdEvent": 5,
+            "AdNewtork": 1
         },
         {
             "Name": "TeamSelect",
-            "Event": 6,
-            "Enabled": true
+            "AdEvent": 6,
+            "AdNewtork": 2
         },
         {
             "Name": "StoreOpen",
-            "Event": 7,
-            "Enabled": true
+            "AdEvent": 7,
+            "AdNewtork": 1
         },
         {
             "Name": "Pause",
-            "Event": 8,
-            "Enabled": true
+            "AdEvent": 8,
+            "AdNewtork": 2
         },
         {
             "Name": "Home",
-            "Event": 9,
-            "Enabled": true
+            "AdEvent": 9,
+            "AdNewtork": 1
         },
         {
             "Name": "Next",
-            "Event": 10,
-            "Enabled": true
+            "AdEvent": 10,
+            "AdNewtork": 2
         },
         {
             "Name": "Retry",
-            "Event": 11,
-            "Enabled": true
+            "AdEvent": 11,
+            "AdNewtork": 1
+        },
+        {
+            "Name": "LevelPlay",
+            "AdEvent": 12,
+            "AdNewtork": 2
         },
         {
             "Name": "LevelComplete",
-            "Event": 12,
-            "Enabled": true
+            "AdEvent": 13,
+            "AdNewtork": 1
         },
         {
             "Name": "LevelFail",
-            "Event": 13,
-            "Enabled": true
+            "AdEvent": 14,
+            "AdNewtork": 2
+        },
+        {
+            "Name": "RewardedVideo",
+            "AdEvent": 15,
+            "AdNewtork": 1
         }
     ]
 }
