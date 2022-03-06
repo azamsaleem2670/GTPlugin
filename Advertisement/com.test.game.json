@@ -42,12 +42,12 @@
         {
             "Name": "TeamSelect",
             "Event": 6,
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "StoreOpen",
             "Event": 7,
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Pause",
@@ -57,7 +57,7 @@
         {
             "Name": "Home",
             "Event": 9,
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Next",
