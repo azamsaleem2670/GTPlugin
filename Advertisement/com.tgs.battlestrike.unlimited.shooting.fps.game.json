@@ -22,12 +22,12 @@
         {
             "Name": "SettingBtn",
             "Event": 2,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Exit",
             "Event": 3,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "LevelSelect",
@@ -57,12 +57,12 @@
         {
             "Name": "Home",
             "Event": 9,
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Next",
             "Event": 10,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Retry",
