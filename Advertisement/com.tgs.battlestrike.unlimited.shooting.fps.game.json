@@ -67,7 +67,7 @@
         {
             "Name": "Retry",
             "Event": 11,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "LevelComplete",
