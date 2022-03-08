@@ -32,7 +32,7 @@
         {
             "Name": "LevelSelect",
             "Event": 4,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "ItemSelect",
@@ -77,7 +77,7 @@
         {
             "Name": "LevelFail",
             "Event": 13,
-            "Enabled": true
+            "Enabled": false
         }
     ]
 }
