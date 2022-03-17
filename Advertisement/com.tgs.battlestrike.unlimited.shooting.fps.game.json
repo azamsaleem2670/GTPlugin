@@ -22,12 +22,12 @@
         {
             "Name": "SettingBtn",
             "Event": 2,
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Exit",
             "Event": 3,
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "LevelSelect",
@@ -37,7 +37,7 @@
         {
             "Name": "ItemSelect",
             "Event": 5,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "TeamSelect",
@@ -47,7 +47,7 @@
         {
             "Name": "StoreOpen",
             "Event": 7,
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Pause",
@@ -62,12 +62,12 @@
         {
             "Name": "Next",
             "Event": 10,
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Retry",
             "Event": 11,
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "LevelComplete",
