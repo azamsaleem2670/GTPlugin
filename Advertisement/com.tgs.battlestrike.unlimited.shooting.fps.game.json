@@ -37,12 +37,12 @@
         {
             "Name": "ItemSelect",
             "Event": 5,
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "TeamSelect",
             "Event": 6,
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "StoreOpen",
@@ -77,7 +77,7 @@
         {
             "Name": "LevelFail",
             "Event": 13,
-            "Enabled": false
+            "Enabled": true
         }
     ]
 }
