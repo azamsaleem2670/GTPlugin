@@ -2,8 +2,8 @@
     "Ids": {
         "AppId": "4704705",
         "Banner": {
-            "BannerId": "Rewarded_Android",
-            "BannerPosition": 4
+            "BannerId": "Banner_Android",
+            "BannerPosition": 1
         },
         "Interstitial": "Interstitial_Android",
         "RewardedAd": "Rewarded_Android"
