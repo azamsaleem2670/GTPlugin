@@ -12,12 +12,12 @@
         {
             "Name": "GameStart",
             "Event": 0,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "PlayBtn",
             "Event": 1,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "SettingBtn",
@@ -37,17 +37,17 @@
         {
             "Name": "ItemSelect",
             "Event": 5,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "TeamSelect",
             "Event": 6,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "StoreOpen",
             "Event": 7,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Pause",
@@ -62,12 +62,12 @@
         {
             "Name": "Next",
             "Event": 10,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Retry",
             "Event": 11,
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "LevelComplete",
