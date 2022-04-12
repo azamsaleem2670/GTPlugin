@@ -17,7 +17,7 @@
         {
             "Name": "PlayBtn",
             "Event": 1,
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "SettingBtn",
