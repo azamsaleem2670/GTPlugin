@@ -14,19 +14,15 @@
     "Advertisement": [
         {
             "Name": "UnityAd",
-            "AppId": "ca-app-pub-3940256099942544~3347511713",
+            "AppId": "4565947",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
-                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
+                    "AdUnitId": "Interstitial_Android"
                 },
                 {
                     "Name": "Rewarded",
-                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
-                },
-                {
-                    "Name": "RewardedInterstitial",
-                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
+                    "AdUnitId": "Rewarded_Android"
                 }
             ]
         },
