@@ -1,14 +1,20 @@
 {
     "Banner": {
         "AdNetwork": 2,
-        "BannerId": "ca-app-pub-3940256099942544/6300978111",
-        "Size": 0,
-        "Position": 1
+        "UnityBanner": {
+            "BannerId": "Banner_Android",
+            "Position": 1
+        },
+        "AdmobBanner": {
+            "BannerId": "ca-app-pub-3940256099942544/6300978111",
+            "Position": 6,
+            "Size": 0
+        }
     },
     "Advertisement": [
         {
             "Name": "UnityAd",
-            "AppId": "ca-app-pub-6514041450334421~9394624502",
+            "AppId": "ca-app-pub-3940256099942544~3347511713",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
@@ -26,7 +32,7 @@
         },
         {
             "Name": "GoogleAdmob",
-            "AppId": "ca-app-pub-6514041450334421~9394624502",
+            "AppId": "ca-app-pub-3940256099942544~3347511713",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
