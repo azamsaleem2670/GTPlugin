@@ -49,98 +49,112 @@
             "AdNewtorks": [
                 1,
                 2
-            ]
+            ],
+            "Enabled": true
         },
         {
             "Name": "PlayBtn",
             "AdNewtorks": [
                 1,
                 2
-            ]
+            ],
+            "Enabled": true
         },
         {
             "Name": "SettingBtn",
             "AdNewtorks": [
                 1,
                 2
-            ]
+            ],
+            "Enabled": true
         },
         {
             "Name": "Exit",
             "AdNewtorks": [
                 1,
                 2
-            ]
+            ],
+            "Enabled": true
         },
         {
             "Name": "LevelSelect",
             "AdNewtorks": [
                 1,
                 2
-            ]
+            ],
+            "Enabled": true
         },
         {
             "Name": "ItemSelect",
             "AdNewtorks": [
                 1,
                 2
-            ]
+            ],
+            "Enabled": true
         },
         {
             "Name": "TeamSelect",
             "AdNewtorks": [
                 1,
                 2
-            ]
+            ],
+            "Enabled": true
         },
         {
             "Name": "StoreOpen",
             "AdNewtorks": [
                 1,
                 2
-            ]
+            ],
+            "Enabled": true
         },
         {
             "Name": "Pause",
             "AdNewtorks": [
                 1,
                 2
-            ]
+            ],
+            "Enabled": true
         },
         {
             "Name": "Home",
             "AdNewtorks": [
                 1,
                 2
-            ]
+            ],
+            "Enabled": true
         },
         {
             "Name": "Next",
             "AdNewtorks": [
                 1,
                 2
-            ]
+            ],
+            "Enabled": true
         },
         {
             "Name": "Retry",
             "AdNewtorks": [
                 1,
                 2
-            ]
+            ],
+            "Enabled": true
         },
         {
             "Name": "LevelComplete",
             "AdNewtorks": [
                 1,
                 2
-            ]
+            ],
+            "Enabled": true
         },
         {
             "Name": "LevelFail",
             "AdNewtorks": [
                 1,
                 2
-            ]
+            ],
+            "Enabled": true
         }
     ]
 }
