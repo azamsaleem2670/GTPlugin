@@ -49,8 +49,8 @@
         {
             "Name": "GameStart",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
@@ -65,8 +65,8 @@
         {
             "Name": "SettingBtn",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
@@ -81,8 +81,8 @@
         {
             "Name": "LevelSelect",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
@@ -97,8 +97,8 @@
         {
             "Name": "TeamSelect",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
@@ -113,24 +113,24 @@
         {
             "Name": "Pause",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
         {
             "Name": "Home",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
         {
             "Name": "Next",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
@@ -145,8 +145,8 @@
         {
             "Name": "LevelComplete",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
