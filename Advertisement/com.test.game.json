@@ -161,8 +161,8 @@
         {
             "Name": "RewardedAd",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         }
