@@ -6,7 +6,7 @@
             "Position": 1
         },
         "AdmobBanner": {
-            "BannerId": "ca-app-pub-6514041450334421/9199662312",
+            "BannerId": "ca-app-pub-3940256099942544/6300978111",
             "Position": 0,
             "Size": 0
         }
@@ -32,11 +32,11 @@
             "AdUnits": [
                 {
                     "Name": "Interstitial",
-                    "AdUnitId": "ca-app-pub-6514041450334421~9394624502"
+                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
                 },
                 {
                     "Name": "Rewarded",
-                    "AdUnitId": "ca-app-pub-6514041450334421/6419735788"
+                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
                 },
                 {
                     "Name": "RewardedInterstitial",
