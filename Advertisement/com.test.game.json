@@ -7,7 +7,7 @@
         },
         "AdmobBanner": {
             "BannerId": "ca-app-pub-3940256099942544/6300978111",
-            "Position": 6,
+            "Position": 0,
             "Size": 0
         }
     },
@@ -161,8 +161,8 @@
         {
             "Name": "RewardedAd",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         }
