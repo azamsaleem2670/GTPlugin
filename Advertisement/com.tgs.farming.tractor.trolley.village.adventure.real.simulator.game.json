@@ -84,7 +84,7 @@
                 2,
                 1
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "ItemSelect",
@@ -92,7 +92,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "TeamSelect",
@@ -161,8 +161,8 @@
         {
             "Name": "RewardedAd",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         }
