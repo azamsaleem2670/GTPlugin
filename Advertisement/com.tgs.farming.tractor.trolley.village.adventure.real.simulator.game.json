@@ -1,82 +1,169 @@
 {
-    "Ids": {
-        "AppId": "4704705",
-        "Banner": {
+    "Banner": {
+        "AdNetwork": 2,
+        "UnityBanner": {
             "BannerId": "Banner_Android",
-            "BannerPosition": 1
+            "Position": 4
         },
-        "Interstitial": "Interstitial_Android",
-        "RewardedAd": "Rewarded_Android"
+        "AdmobBanner": {
+            "BannerId": "ca-app-pub-6514041450334421/2649372546",
+            "Position": 1,
+            "Size": 0
+        }
     },
-    "AdEventUnits": [
+    "Advertisement": [
+        {
+            "Name": "UnityAd",
+            "AppId": "4704705",
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "AdUnitId": "Interstitial_Android"
+                },
+                {
+                    "Name": "Rewarded",
+                    "AdUnitId": "Rewarded_Android"
+                }
+            ]
+        },
+        {
+            "Name": "GoogleAdmob",
+            "AppId": "ca-app-pub-6514041450334421~5497514272",
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "AdUnitId": "ca-app-pub-6514041450334421/7932105922"
+                },
+                {
+                    "Name": "Rewarded",
+                    "AdUnitId": "ca-app-pub-6514041450334421/9053615904"
+                },
+                {
+                    "Name": "RewardedInterstitial",
+                    "AdUnitId": "ca-app-pub-6514041450334421/2679779240"
+                }
+            ]
+        }
+    ],
+    "Events": [
         {
             "Name": "GameStart",
-            "Event": 0,
-            "Enabled": false
+            "AdNewtorks": [
+                2,
+                1
+            ],
+            "Enabled": true
         },
         {
             "Name": "PlayBtn",
-            "Event": 1,
+            "AdNewtorks": [
+                1,
+                2
+            ],
             "Enabled": true
         },
         {
             "Name": "SettingBtn",
-            "Event": 2,
+            "AdNewtorks": [
+                2,
+                1
+            ],
             "Enabled": true
         },
         {
             "Name": "Exit",
-            "Event": 3,
+            "AdNewtorks": [
+                1,
+                2
+            ],
             "Enabled": true
         },
         {
             "Name": "LevelSelect",
-            "Event": 4,
+            "AdNewtorks": [
+                2,
+                1
+            ],
             "Enabled": false
         },
         {
             "Name": "ItemSelect",
-            "Event": 5,
+            "AdNewtorks": [
+                1,
+                2
+            ],
             "Enabled": true
         },
         {
             "Name": "TeamSelect",
-            "Event": 6,
+            "AdNewtorks": [
+                2,
+                1
+            ],
             "Enabled": false
         },
         {
             "Name": "StoreOpen",
-            "Event": 7,
-            "Enabled": false
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
         },
         {
             "Name": "Pause",
-            "Event": 8,
+            "AdNewtorks": [
+                2,
+                1
+            ],
             "Enabled": true
         },
         {
             "Name": "Home",
-            "Event": 9,
+            "AdNewtorks": [
+                1,
+                2
+            ],
             "Enabled": true
         },
         {
             "Name": "Next",
-            "Event": 10,
+            "AdNewtorks": [
+                2,
+                1
+            ],
             "Enabled": false
         },
         {
             "Name": "Retry",
-            "Event": 11,
+            "AdNewtorks": [
+                1,
+                2
+            ],
             "Enabled": false
         },
         {
             "Name": "LevelComplete",
-            "Event": 12,
+            "AdNewtorks": [
+                2,
+                1
+            ],
             "Enabled": true
         },
         {
             "Name": "LevelFail",
-            "Event": 13,
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "RewardedAd",
+            "AdNewtorks": [
+                2,
+                1
+            ],
             "Enabled": true
         }
     ]
