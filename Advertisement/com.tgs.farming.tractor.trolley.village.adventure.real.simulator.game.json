@@ -3,7 +3,7 @@
         "AdNetwork": 2,
         "UnityBanner": {
             "BannerId": "Banner_Android",
-            "Position": 4
+            "Position": 1
         },
         "AdmobBanner": {
             "BannerId": "ca-app-pub-6514041450334421/2649372546",
