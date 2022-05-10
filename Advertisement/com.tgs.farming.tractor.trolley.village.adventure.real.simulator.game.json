@@ -1,6 +1,6 @@
 {
     "Banner": {
-        "AdNetwork": 1,
+        "AdNetwork": 2,
         "UnityBanner": {
             "BannerId": "Banner_Android",
             "Position": 1
