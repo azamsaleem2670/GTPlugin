@@ -57,8 +57,8 @@
         {
             "Name": "PlayBtn",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
@@ -73,8 +73,8 @@
         {
             "Name": "Exit",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": false
         },
@@ -89,8 +89,8 @@
         {
             "Name": "ItemSelect",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": false
         },
@@ -105,8 +105,8 @@
         {
             "Name": "StoreOpen",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": false
         },
@@ -121,8 +121,8 @@
         {
             "Name": "Home",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
@@ -137,8 +137,8 @@
         {
             "Name": "Retry",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
@@ -153,8 +153,8 @@
         {
             "Name": "LevelFail",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
