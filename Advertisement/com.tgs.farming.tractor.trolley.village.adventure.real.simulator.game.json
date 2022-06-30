@@ -57,16 +57,16 @@
         {
             "Name": "PlayBtn",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
         {
             "Name": "SettingBtn",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
@@ -89,8 +89,8 @@
         {
             "Name": "ItemSelect",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": false
         },
@@ -105,8 +105,8 @@
         {
             "Name": "StoreOpen",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": false
         },
@@ -121,16 +121,16 @@
         {
             "Name": "Home",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
         {
             "Name": "Next",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
@@ -145,8 +145,8 @@
         {
             "Name": "LevelComplete",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": false
         },
@@ -161,8 +161,8 @@
         {
             "Name": "RewardedAd",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         }
