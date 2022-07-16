@@ -49,120 +49,120 @@
         {
             "Name": "GameStart",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "PlayBtn",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "SettingBtn",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "Exit",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "LevelSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "ItemSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "TeamSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": false
         },
         {
             "Name": "StoreOpen",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Pause",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "Home",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "Next",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "Retry",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "LevelComplete",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "LevelFail",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "RewardedAd",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         }
