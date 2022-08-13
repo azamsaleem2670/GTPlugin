@@ -84,7 +84,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "LevelSelect",
@@ -140,7 +140,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Retry",
@@ -148,7 +148,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "LevelComplete",
