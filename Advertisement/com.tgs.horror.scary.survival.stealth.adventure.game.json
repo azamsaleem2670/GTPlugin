@@ -52,7 +52,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "PlayBtn",
@@ -140,7 +140,7 @@
                 1,
                 2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Retry",
@@ -148,7 +148,7 @@
                 1,
                 2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "LevelComplete",
@@ -156,7 +156,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "LevelFail",
@@ -164,7 +164,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "RewardedAd",
