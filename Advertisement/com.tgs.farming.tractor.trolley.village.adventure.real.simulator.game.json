@@ -92,7 +92,7 @@
                 1,
                 2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "TeamSelect",
