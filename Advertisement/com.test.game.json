@@ -1,6 +1,6 @@
 {
     "Banner": {
-        "AdNetwork": 1,
+        "AdNetwork": 2,
         "UnityBanner": {
             "BannerId": "Banner_Android",
             "Position": 1
@@ -173,6 +173,15 @@
                 2
             ],
             "Enabled": true
+        },
+        {
+            "Name": "Gameplay",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
         }
-    ]
+    ],
+    "GameplayAdInterval": 180.0
 }
