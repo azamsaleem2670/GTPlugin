@@ -103,6 +103,22 @@
             "Enabled": true
         },
         {
+            "Name": "VehicleSelect",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "CharacterSelect",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
             "Name": "TeamSelect",
             "AdNewtorks": [
                 1,
