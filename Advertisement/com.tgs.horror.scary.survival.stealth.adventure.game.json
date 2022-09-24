@@ -173,6 +173,15 @@
                 2
             ],
             "Enabled": true
+        },
+        {
+            "Name": "Gameplay",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
         }
-    ]
+    ],
+    "GameplayAdInterval": 240.0
 }
