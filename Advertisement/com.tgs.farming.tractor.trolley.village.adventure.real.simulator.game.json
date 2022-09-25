@@ -79,6 +79,14 @@
             "Enabled": true
         },
         {
+            "Name": "ModeSelect",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
             "Name": "LevelSelect",
             "AdNewtorks": [
                 1,
@@ -95,12 +103,28 @@
             "Enabled": true
         },
         {
-            "Name": "TeamSelect",
+            "Name": "VehicleSelect",
             "AdNewtorks": [
                 1,
                 2
             ],
             "Enabled": false
+        },
+        {
+            "Name": "CharacterSelect",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "TeamSelect",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
         },
         {
             "Name": "StoreOpen",
@@ -140,7 +164,7 @@
                 1,
                 2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "LevelComplete",
@@ -156,7 +180,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "RewardedAd",
