@@ -52,7 +52,7 @@
                 1,
                 2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "PlayBtn",
@@ -92,7 +92,7 @@
                 1,
                 2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "ItemSelect",
@@ -108,7 +108,7 @@
                 1,
                 2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "CharacterSelect",
@@ -156,7 +156,7 @@
                 1,
                 2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Retry",
@@ -180,7 +180,7 @@
                 1,
                 2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "RewardedAd",
@@ -199,5 +199,5 @@
             "Enabled": true
         }
     ],
-    "GameplayAdInterval": 240.0
+    "GameplayAdInterval": 180.0
 }
