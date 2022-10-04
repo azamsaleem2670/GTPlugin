@@ -1,0 +1,170 @@
+{
+    "Banner": {
+        "AdNetwork": 1,
+        "UnityBanner": {
+            "BannerId": "Banner_Android",
+            "Position": 4
+        },
+        "AdmobBanner": {
+            "BannerId": "ca-app-pub-6514041450334421/2281652982",
+            "Position": 1,
+            "Size": 0
+        }
+    },
+    "Advertisement": [
+        {
+            "Name": "UnityAd",
+            "AppId": "4631787",
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "AdUnitId": "Interstitial_Android"
+                },
+                {
+                    "Name": "Rewarded",
+                    "AdUnitId": "Rewarded_Android"
+                }
+            ]
+        },
+        {
+            "Name": "GoogleAdmob",
+            "AppId": "ca-app-pub-6514041450334421~5510451559",
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "AdUnitId": "ca-app-pub-6514041450334421/1043511368"
+                },
+                {
+                    "Name": "Rewarded",
+                    "AdUnitId": "ca-app-pub-6514041450334421/9749079465"
+                },
+                {
+                    "Name": "RewardedInterstitial",
+                    "AdUnitId": "ca-app-pub-6514041450334421/5809834454"
+                }
+            ]
+        }
+    ],
+    "Events": [
+        {
+            "Name": "GameStart",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "PlayBtn",
+            "AdNewtorks": [
+                2,
+                1
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "SettingBtn",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "Exit",
+            "AdNewtorks": [
+                2,
+                1
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "LevelSelect",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": false
+        },
+        {
+            "Name": "ItemSelect",
+            "AdNewtorks": [
+                2,
+                1
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "TeamSelect",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": false
+        },
+        {
+            "Name": "StoreOpen",
+            "AdNewtorks": [
+                2,
+                1
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "Pause",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "Home",
+            "AdNewtorks": [
+                2,
+                1
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "Next",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": false
+        },
+        {
+            "Name": "Retry",
+            "AdNewtorks": [
+                2,
+                1
+            ],
+            "Enabled": false
+        },
+        {
+            "Name": "LevelComplete",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "LevelFail",
+            "AdNewtorks": [
+                2,
+                1
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "RewardedAd",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        }
+    ]
+}

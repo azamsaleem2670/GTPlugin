@@ -1,0 +1,203 @@
+{
+    "Banner": {
+        "AdNetwork": 2,
+        "UnityBanner": {
+            "BannerId": "Banner_Android",
+            "Position": 1
+        },
+        "AdmobBanner": {
+            "BannerId": "ca-app-pub-3940256099942544/6300978111",
+            "Position": 0,
+            "Size": 0
+        }
+    },
+    "Advertisement": [
+        {
+            "Name": "UnityAd",
+            "AppId": "4565947",
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "AdUnitId": "Interstitial_Android"
+                },
+                {
+                    "Name": "Rewarded",
+                    "AdUnitId": "Rewarded_Android"
+                }
+            ]
+        },
+        {
+            "Name": "GoogleAdmob",
+            "AppId": "ca-app-pub-3940256099942544~3347511713",
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
+                },
+                {
+                    "Name": "Rewarded",
+                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
+                },
+                {
+                    "Name": "RewardedInterstitial",
+                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
+                }
+            ]
+        }
+    ],
+    "Events": [
+        {
+            "Name": "GameStart",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "PlayBtn",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "SettingBtn",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "Exit",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "ModeSelect",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "LevelSelect",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "ItemSelect",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "VehicleSelect",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "CharacterSelect",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "TeamSelect",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "StoreOpen",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "Pause",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "Home",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "Next",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "Retry",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "LevelComplete",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "LevelFail",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "RewardedAd",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "Gameplay",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        }
+    ],
+    "GameplayAdInterval": 180.0
+}
