@@ -1,6 +1,6 @@
 {
     "Banner": {
-        "AdNetwork": 2,
+        "AdNetwork": 1,
         "UnityBanner": {
             "BannerId": "Banner_Android",
             "Position": 1
@@ -49,152 +49,152 @@
         {
             "Name": "GameStart",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": false
         },
         {
             "Name": "PlayBtn",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "SettingBtn",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "Exit",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "ModeSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": false
         },
         {
             "Name": "LevelSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "ItemSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "VehicleSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": false
         },
         {
             "Name": "CharacterSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "TeamSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "StoreOpen",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "Pause",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "Home",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "Next",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": false
         },
         {
             "Name": "Retry",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "LevelComplete",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "LevelFail",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": false
         },
         {
             "Name": "RewardedAd",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "Gameplay",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         }
