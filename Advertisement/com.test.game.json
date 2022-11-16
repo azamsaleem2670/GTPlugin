@@ -1,6 +1,7 @@
 {
     "Banner": {
-        "AdNetwork": 1,
+        "Enabled": false,
+        "AdNetwork": 2,
         "UnityBanner": {
             "BannerId": "Banner_Android",
             "Position": 1
@@ -11,6 +12,7 @@
             "Size": 0
         }
     },
+    "AppOpenId": "ca-app-pub-3940256099942544/3419835294",
     "Advertisement": [
         {
             "Name": "UnityAd",
