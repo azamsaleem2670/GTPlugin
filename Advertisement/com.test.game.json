@@ -1,13 +1,17 @@
 {
     "Banner": {
-        "Enabled": true,
-        "AdNetwork": 1,
+        "Enabled": false,
+        "AdNetwork": 2,
         "UnityBanner": {
             "BannerId": "Banner_Android",
             "Position": 1
         },
         "AdmobBanner": {
-            "BannerId": "ca-app-pub-3940256099942544/6300978111",
+            "BannerIds": [
+                "ca-app-pub-3940256099942544/6300978111",
+                "ca-app-pub-3940256099942544/6300978111",
+                "ca-app-pub-3940256099942544/6300978111"
+            ],
             "Position": 0,
             "Size": 0
         }
