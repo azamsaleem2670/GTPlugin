@@ -1,20 +1,22 @@
 {
     "Banner": {
-        "AdNetwork": 1,
+        "Enabled": true,
+        "AdNetwork": 2,
         "UnityBanner": {
             "BannerId": "Banner_Android",
-            "Position": 4
+            "Position": 1
         },
         "AdmobBanner": {
-            "BannerId": "ca-app-pub-6514041450334421/2281652982",
-            "Position": 1,
+            "BannerId": "ca-app-pub-3940256099942544/6300978111",
+            "Position": 0,
             "Size": 0
         }
     },
+    "AppOpenId": "ca-app-pub-3940256099942544/3419835294",
     "Advertisement": [
         {
             "Name": "UnityAd",
-            "AppId": "4631787",
+            "AppId": "4565947",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
@@ -28,19 +30,19 @@
         },
         {
             "Name": "GoogleAdmob",
-            "AppId": "ca-app-pub-6514041450334421~5510451559",
+            "AppId": "ca-app-pub-3940256099942544~3347511713",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
-                    "AdUnitId": "ca-app-pub-6514041450334421/1043511368"
+                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
                 },
                 {
                     "Name": "Rewarded",
-                    "AdUnitId": "ca-app-pub-6514041450334421/9749079465"
+                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
                 },
                 {
                     "Name": "RewardedInterstitial",
-                    "AdUnitId": "ca-app-pub-6514041450334421/5809834454"
+                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
                 }
             ]
         }
@@ -57,8 +59,8 @@
         {
             "Name": "PlayBtn",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
@@ -73,8 +75,16 @@
         {
             "Name": "Exit",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "ModeSelect",
+            "AdNewtorks": [
+                1,
+                2
             ],
             "Enabled": true
         },
@@ -84,13 +94,29 @@
                 1,
                 2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "ItemSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "VehicleSelect",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
+        },
+        {
+            "Name": "CharacterSelect",
+            "AdNewtorks": [
+                1,
+                2
             ],
             "Enabled": true
         },
@@ -100,13 +126,13 @@
                 1,
                 2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "StoreOpen",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
@@ -121,8 +147,8 @@
         {
             "Name": "Home",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
@@ -132,15 +158,15 @@
                 1,
                 2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Retry",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "LevelComplete",
@@ -153,8 +179,8 @@
         {
             "Name": "LevelFail",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
@@ -165,6 +191,15 @@
                 2
             ],
             "Enabled": true
+        },
+        {
+            "Name": "Gameplay",
+            "AdNewtorks": [
+                1,
+                2
+            ],
+            "Enabled": true
         }
-    ]
+    ],
+    "GameplayAdInterval": 180.0
 }
