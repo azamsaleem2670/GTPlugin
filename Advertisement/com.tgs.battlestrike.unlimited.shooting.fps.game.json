@@ -78,7 +78,7 @@
                 2,
                 1
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "ModeSelect",
