@@ -102,7 +102,7 @@
                 2,
                 1
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "VehicleSelect",
