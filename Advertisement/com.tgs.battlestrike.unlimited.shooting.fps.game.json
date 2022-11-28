@@ -7,7 +7,7 @@
             "Position": 1
         },
         "AdmobBanner": {
-            "BannerId": "ca-app-pub-3940256099942544/6300978111",
+            "BannerId": "ca-app-pub-6514041450334421/2281652982",
             "Position": 0,
             "Size": 0
         }
@@ -16,7 +16,7 @@
     "Advertisement": [
         {
             "Name": "UnityAd",
-            "AppId": "4565947",
+            "AppId": "4631787",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
@@ -30,19 +30,19 @@
         },
         {
             "Name": "GoogleAdmob",
-            "AppId": "ca-app-pub-3940256099942544~3347511713",
+            "AppId": "ca-app-pub-6514041450334421~5510451559",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
-                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
+                    "AdUnitId": "ca-app-pub-6514041450334421/1043511368"
                 },
                 {
                     "Name": "Rewarded",
-                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
+                    "AdUnitId": "ca-app-pub-6514041450334421/9749079465"
                 },
                 {
                     "Name": "RewardedInterstitial",
-                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
+                    "AdUnitId": "ca-app-pub-6514041450334421/5809834454"
                 }
             ]
         }
