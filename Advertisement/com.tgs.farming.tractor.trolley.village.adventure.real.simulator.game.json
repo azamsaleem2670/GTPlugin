@@ -94,7 +94,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "ItemSelect",
@@ -118,7 +118,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "TeamSelect",
@@ -150,7 +150,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Next",
@@ -174,7 +174,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "LevelFail",
