@@ -1,6 +1,7 @@
 {
     "Banner": {
-        "AdNetwork": 1,
+        "Enabled": true,
+        "AdNetwork": 2,
         "UnityBanner": {
             "BannerId": "Banner_Android",
             "Position": 1
@@ -11,6 +12,7 @@
             "Size": 0
         }
     },
+    "AppOpenId": "ca-app-pub-3940256099942544/3419835294",
     "Advertisement": [
         {
             "Name": "UnityAd",
@@ -52,7 +54,7 @@
                 1,
                 2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "PlayBtn",
@@ -92,7 +94,7 @@
                 1,
                 2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "ItemSelect",
@@ -199,5 +201,4 @@
             "Enabled": true
         }
     ],
-    "GameplayAdInterval": 180.0
-}
+    "
