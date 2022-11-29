@@ -7,16 +7,16 @@
             "Position": 1
         },
         "AdmobBanner": {
-            "BannerId": "ca-app-pub-6514041450334421/2649372546",
+            "BannerId": "ca-app-pub-3940256099942544/6300978111",
             "Position": 0,
             "Size": 0
         }
     },
-    "AppOpenId": "ca-app-pub-6514041450334421/9309986640",
+    "AppOpenId": "ca-app-pub-3940256099942544/3419835294",
     "Advertisement": [
         {
             "Name": "UnityAd",
-            "AppId": "4704705",
+            "AppId": "4565947",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
@@ -30,19 +30,19 @@
         },
         {
             "Name": "GoogleAdmob",
-            "AppId": "ca-app-pub-6514041450334421~5497514272",
+            "AppId": "ca-app-pub-3940256099942544~3347511713",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
-                    "AdUnitId": "ca-app-pub-6514041450334421/7932105922"
+                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
                 },
                 {
                     "Name": "Rewarded",
-                    "AdUnitId": "ca-app-pub-6514041450334421/9053615904"
+                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
                 },
                 {
                     "Name": "RewardedInterstitial",
-                    "AdUnitId": "ca-app-pub-6514041450334421/2679779240"
+                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
                 }
             ]
         }
@@ -201,4 +201,5 @@
             "Enabled": true
         }
     ],
-    "
+    "GameplayAdInterval": 180.0
+}
