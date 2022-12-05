@@ -1,5 +1,6 @@
 {
     "Banner": {
+        "Enabled": true,
         "AdNetwork": 2,
         "UnityBanner": {
             "BannerId": "Banner_Android",
@@ -11,6 +12,7 @@
             "Size": 0
         }
     },
+    "AppOpenId": "ca-app-pub-3940256099942544/3419835294",
     "Advertisement": [
         {
             "Name": "UnityAd",
@@ -49,152 +51,152 @@
         {
             "Name": "GameStart",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": false
         },
         {
             "Name": "PlayBtn",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "SettingBtn",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "Exit",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "ModeSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": false
         },
         {
             "Name": "LevelSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "ItemSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "VehicleSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "CharacterSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "TeamSelect",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "StoreOpen",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "Pause",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "Home",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "Next",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Retry",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "LevelComplete",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "LevelFail",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": false
         },
         {
             "Name": "RewardedAd",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         },
         {
             "Name": "Gameplay",
             "AdNewtorks": [
-                2,
-                1
+                1,
+                2
             ],
             "Enabled": true
         }
