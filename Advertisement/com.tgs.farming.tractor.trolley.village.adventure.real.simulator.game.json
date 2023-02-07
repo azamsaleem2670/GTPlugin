@@ -70,7 +70,7 @@
                 2,
                 1
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Exit",
@@ -78,7 +78,7 @@
                 2,
                 1
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "ModeSelect",
@@ -86,7 +86,7 @@
                 2,
                 1
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "LevelSelect",
@@ -102,7 +102,7 @@
                 2,
                 1
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "VehicleSelect",
@@ -182,7 +182,7 @@
                 2,
                 1
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "RewardedAd",
@@ -198,7 +198,7 @@
                 2,
                 1
             ],
-            "Enabled": true
+            "Enabled": false
         }
     ],
     "GameplayAdInterval": 180.0
