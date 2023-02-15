@@ -70,7 +70,7 @@
                 2,
                 1
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Exit",
@@ -78,7 +78,7 @@
                 2,
                 1
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "ModeSelect",
@@ -150,7 +150,7 @@
                 2,
                 1
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Next",
@@ -166,7 +166,7 @@
                 2,
                 1
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "LevelComplete",
@@ -198,7 +198,7 @@
                 2,
                 1
             ],
-            "Enabled": false
+            "Enabled": true
         }
     ],
     "GameplayAdInterval": 180.0
