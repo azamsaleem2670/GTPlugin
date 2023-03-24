@@ -9,7 +9,7 @@
         "AdmobBanner": {
             "BannerId": "ca-app-pub-3940256099942544/6300978111",
             "Position": 0,
-            "Size": 2
+            "Size": 4
         }
     },
     "AppOpenId": "ca-app-pub-3940256099942544/3419835294",
