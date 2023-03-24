@@ -12,6 +12,13 @@
             "Size": 4
         }
     },
+    "AdmobAdaptiveBanner": {
+        "Enabled": true,
+        "BannerId": "ca-app-pub-3940256099942544/6300978111",
+        "Position": 5,
+        "Width": 300,
+        "Height": 250
+    },
     "AppOpenId": "ca-app-pub-3940256099942544/3419835294",
     "Advertisement": [
         {
