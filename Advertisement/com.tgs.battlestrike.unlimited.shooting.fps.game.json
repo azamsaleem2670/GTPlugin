@@ -97,6 +97,14 @@
             "Enabled": false
         },
         {
+            "Name": "WeaponSelect",
+            "AdNewtorks": [
+                2,
+                1
+            ],
+            "Enabled": false
+        },
+        {
             "Name": "ItemSelect",
             "AdNewtorks": [
                 2,
