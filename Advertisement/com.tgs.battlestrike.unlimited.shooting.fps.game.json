@@ -62,7 +62,7 @@
                 2,
                 1
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "SettingBtn",
@@ -70,7 +70,7 @@
                 2,
                 1
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Exit",
@@ -78,7 +78,7 @@
                 2,
                 1
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "ModeSelect",
@@ -94,7 +94,7 @@
                 2,
                 1
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "WeaponSelect",
@@ -110,7 +110,7 @@
                 2,
                 1
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "VehicleSelect",
@@ -142,7 +142,7 @@
                 2,
                 1
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Pause",
@@ -206,7 +206,7 @@
                 2,
                 1
             ],
-            "Enabled": true
+            "Enabled": false
         }
     ],
     "GameplayAdInterval": 180.0
