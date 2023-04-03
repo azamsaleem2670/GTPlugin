@@ -62,7 +62,7 @@
                 2,
                 1
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "SettingBtn",
@@ -86,7 +86,7 @@
                 2,
                 1
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "LevelSelect",
@@ -94,7 +94,7 @@
                 2,
                 1
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "WeaponSelect",
@@ -102,7 +102,7 @@
                 2,
                 1
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "ItemSelect",
@@ -110,7 +110,7 @@
                 2,
                 1
             ],
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "VehicleSelect",
