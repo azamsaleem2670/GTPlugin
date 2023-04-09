@@ -1,6 +1,6 @@
 {
   "Banner": {
-    "Enabled": true,
+    "Enabled": false,
     "AdNetwork": 2,
     "UnityBanner": {
       "BannerId": "Banner_Android",
@@ -13,7 +13,7 @@
     }
   },
   "AdmobAdaptiveBanner": {
-    "Enabled": true,
+    "Enabled": false,
     "BannerId": "ca-app-pub-6514041450334421/5358277422",
     "Position": 5,
     "Width": 300,
@@ -61,7 +61,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "PlayBtn",
@@ -69,7 +69,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "SettingBtn",
@@ -77,7 +77,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "Exit",
@@ -85,7 +85,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "ModeSelect",
@@ -93,7 +93,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "EnvironmentSelect",
@@ -101,7 +101,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "LevelSelect",
@@ -109,7 +109,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "ItemSelect",
@@ -117,7 +117,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "VehicleSelect",
@@ -125,7 +125,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "CharacterSelect",
@@ -133,7 +133,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "TeamSelect",
@@ -149,7 +149,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "Pause",
@@ -157,7 +157,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "Home",
@@ -165,7 +165,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "Next",
@@ -173,7 +173,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "Retry",
@@ -181,7 +181,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "LevelComplete",
@@ -189,7 +189,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "LevelFail",
@@ -197,7 +197,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "RewardedAd",
@@ -205,7 +205,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     },
     {
       "Name": "Gameplay",
@@ -213,7 +213,7 @@
         2,
         1
       ],
-      "Enabled": true
+      "Enabled": false
     }
   ],
   "GameplayAdInterval": 180.0
