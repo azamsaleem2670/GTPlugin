@@ -7,7 +7,7 @@
             "ca-app-pub-3940256099942544/6300978111"
         ],
         "Enabled": true,
-        "Position": 5,
+        "Position": 1,
         "Size": 0
     },
     "AdmobAdaptiveBanner": {
@@ -17,7 +17,7 @@
             "ca-app-pub-3940256099942544/6300978111"
         ],
         "Enabled": true,
-        "Position": 0,
+        "Position": 5,
         "Width": 300,
         "Height": 250
     },
