@@ -1,10 +1,10 @@
 {
-    "AppId": "ca-app-pub-3940256099942544~3347511713",
+    "AppId": "ca-app-pub-6514041450334421~5510451559",
     "Banner": {
         "Ids": [
-            "ca-app-pub-3940256099942544/6300978111",
-            "ca-app-pub-3940256099942544/6300978111",
-            "ca-app-pub-3940256099942544/6300978111"
+            "ca-app-pub-6514041450334421/8949582190",
+            "ca-app-pub-6514041450334421/6893484240",
+            "ca-app-pub-6514041450334421/2281652982"
         ],
         "Enabled": true,
         "Position": 1,
@@ -12,9 +12,9 @@
     },
     "AdmobAdaptiveBanner": {
         "Ids": [
-            "ca-app-pub-3940256099942544/6300978111",
-            "ca-app-pub-3940256099942544/6300978111",
-            "ca-app-pub-3940256099942544/6300978111"
+            "ca-app-pub-6514041450334421/8339208104",
+            "ca-app-pub-6514041450334421/9652289777",
+            "ca-app-pub-6514041450334421/3331296147"
         ],
         "Enabled": true,
         "Position": 5,
@@ -26,36 +26,36 @@
             "Name": "AppOpen",
             "Enabled": true,
             "Ids": [
-                "ca-app-pub-3940256099942544/3419835294",
-                "ca-app-pub-3940256099942544/3419835294",
-                "ca-app-pub-3940256099942544/3419835294"
+                "ca-app-pub-6514041450334421/3697255513",
+                "ca-app-pub-6514041450334421/7845256221",
+                "ca-app-pub-6514041450334421/8926843263"
             ]
         },
         {
             "Name": "Interstitial",
             "Enabled": true,
             "Ids": [
-                "ca-app-pub-3940256099942544/1033173712",
-                "ca-app-pub-3940256099942544/1033173712",
-                "ca-app-pub-3940256099942544/1033173712"
+                "ca-app-pub-6514041450334421/8353905570",
+                "ca-app-pub-6514041450334421/8299717643",
+                "ca-app-pub-6514041450334421/1043511368"
             ]
         },
         {
             "Name": "Rewarded",
             "Enabled": true,
             "Ids": [
-                "ca-app-pub-3940256099942544/5224354917",
-                "ca-app-pub-3940256099942544/5224354917",
-                "ca-app-pub-3940256099942544/5224354917"
+                "ca-app-pub-6514041450334421/9786406745",
+                "ca-app-pub-6514041450334421/8228399600",
+                "ca-app-pub-6514041450334421/9749079465"
             ]
         },
         {
             "Name": "RewardedInterstitial",
             "Enabled": true,
             "Ids": [
-                "ca-app-pub-3940256099942544/5354046379",
-                "ca-app-pub-3940256099942544/5354046379",
-                "ca-app-pub-3940256099942544/5354046379"
+                "ca-app-pub-6514041450334421/2592929541",
+                "ca-app-pub-6514041450334421/5219092888",
+                "ca-app-pub-6514041450334421/5809834454"
             ]
         }
     ],
@@ -70,19 +70,23 @@
         },
         {
             "Name": "SettingBtn",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Exit",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "ModeSelect",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "LevelSelect",
             "Enabled": true
+        },
+        {
+            "Name": "WeaponSelect",
+            "Enabled": false
         },
         {
             "Name": "ItemSelect",
@@ -102,7 +106,7 @@
         },
         {
             "Name": "StoreOpen",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Pause",
@@ -129,8 +133,12 @@
             "Enabled": true
         },
         {
-            "Name": "Gameplay",
+            "Name": "RewardedAd",
             "Enabled": true
+        },
+        {
+            "Name": "Gameplay",
+            "Enabled": false
         }
     ],
     "GameplayAdInterval": 180.0
