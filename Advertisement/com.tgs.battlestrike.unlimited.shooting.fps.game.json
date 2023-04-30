@@ -1,211 +1,139 @@
 {
+    "AppId": "ca-app-pub-6514041450334421~5510451559",
     "Banner": {
+        "Ids": [
+            "ca-app-pub-6514041450334421/8949582190",
+            "ca-app-pub-6514041450334421/6893484240",
+            "ca-app-pub-6514041450334421/2281652982"
+        ],
         "Enabled": true,
-        "AdNetwork": 2,
-        "UnityBanner": {
-            "BannerId": "Banner_Android",
-            "Position": 1
-        },
-        "AdmobBanner": {
-            "BannerId": "ca-app-pub-6514041450334421/2281652982",
-            "Position": 1,
-            "Size": 0
-        }
+        "Position": 1,
+        "Size": 0
     },
-    "AppOpenId": "ca-app-pub-6514041450334421/8926843263",
-    "Advertisement": [
+    "AdmobAdaptiveBanner": {
+        "Ids": [],
+        "Enabled": true,
+        "Position": 5,
+        "Width": 300,
+        "Height": 250
+    },
+    "AdUnits": [
         {
-            "Name": "UnityAd",
-            "AppId": "4631787",
-            "AdUnits": [
-                {
-                    "Name": "Interstitial",
-                    "AdUnitId": "Interstitial_Android"
-                },
-                {
-                    "Name": "Rewarded",
-                    "AdUnitId": "Rewarded_Android"
-                }
+            "Name": "AppOpen",
+            "Enabled": true,
+            "Ids": [
+                "ca-app-pub-6514041450334421/3697255513",
+                "ca-app-pub-6514041450334421/7845256221",
+                "ca-app-pub-6514041450334421/8926843263"
             ]
         },
         {
-            "Name": "GoogleAdmob",
-            "AppId": "ca-app-pub-6514041450334421~5510451559",
-            "AdUnits": [
-                {
-                    "Name": "Interstitial",
-                    "AdUnitId": "ca-app-pub-6514041450334421/1043511368"
-                },
-                {
-                    "Name": "Rewarded",
-                    "AdUnitId": "ca-app-pub-6514041450334421/9749079465"
-                },
-                {
-                    "Name": "RewardedInterstitial",
-                    "AdUnitId": "ca-app-pub-6514041450334421/5809834454"
-                }
+            "Name": "Interstitial",
+            "Enabled": true,
+            "Ids": [
+                "ca-app-pub-6514041450334421/8353905570",
+                "ca-app-pub-6514041450334421/8299717643",
+                "ca-app-pub-6514041450334421/1043511368"
+            ]
+        },
+        {
+            "Name": "Rewarded",
+            "Enabled": true,
+            "Ids": [
+                "ca-app-pub-6514041450334421/9786406745",
+                "ca-app-pub-6514041450334421/8228399600",
+                "ca-app-pub-6514041450334421/9749079465"
+            ]
+        },
+        {
+            "Name": "RewardedInterstitial",
+            "Enabled": true,
+            "Ids": [
+                "ca-app-pub-6514041450334421/2592929541",
+                "ca-app-pub-6514041450334421/5219092888",
+                "ca-app-pub-6514041450334421/5809834454"
             ]
         }
     ],
     "Events": [
         {
             "Name": "GameStart",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": true
         },
         {
             "Name": "PlayBtn",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": true
         },
         {
             "Name": "SettingBtn",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": false
         },
         {
             "Name": "Exit",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": false
         },
         {
             "Name": "ModeSelect",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": false
         },
         {
             "Name": "LevelSelect",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": true
         },
         {
             "Name": "WeaponSelect",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": false
         },
         {
             "Name": "ItemSelect",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": true
         },
         {
             "Name": "VehicleSelect",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": true
         },
         {
             "Name": "CharacterSelect",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": true
         },
         {
             "Name": "TeamSelect",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": true
         },
         {
             "Name": "StoreOpen",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": false
         },
         {
             "Name": "Pause",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": true
         },
         {
             "Name": "Home",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": true
         },
         {
             "Name": "Next",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": true
         },
         {
             "Name": "Retry",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": true
         },
         {
             "Name": "LevelComplete",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": true
         },
         {
             "Name": "LevelFail",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": true
         },
         {
             "Name": "RewardedAd",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": true
         },
         {
             "Name": "Gameplay",
-            "AdNewtorks": [
-                2,
-                1
-            ],
             "Enabled": false
         }
     ],
