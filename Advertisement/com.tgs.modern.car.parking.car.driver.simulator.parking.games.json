@@ -66,7 +66,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "PlayBtn",
@@ -74,7 +74,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "SettingBtn",
@@ -82,7 +82,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "Exit",
@@ -90,7 +90,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "ModeSelect",
@@ -98,7 +98,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "EnvironmentSelect",
@@ -106,7 +106,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "LevelSelect",
@@ -114,7 +114,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "ItemSelect",
@@ -122,7 +122,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "VehicleSelect",
@@ -130,7 +130,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "CharacterSelect",
@@ -138,7 +138,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "TeamSelect",
@@ -146,7 +146,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "StoreOpen",
@@ -154,7 +154,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "Pause",
@@ -162,7 +162,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "Home",
@@ -170,7 +170,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "Next",
@@ -178,7 +178,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "Retry",
@@ -186,7 +186,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "LevelComplete",
@@ -194,7 +194,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "LevelFail",
@@ -202,7 +202,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "RewardedAd",
@@ -210,7 +210,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       },
       {
         "Name": "Gameplay",
@@ -218,7 +218,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       }
     ],
     "GameplayAdInterval": 180.0
