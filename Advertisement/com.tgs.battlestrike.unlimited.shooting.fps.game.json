@@ -6,7 +6,7 @@
             "ca-app-pub-6514041450334421/6893484240",
             "ca-app-pub-6514041450334421/2281652982"
         ],
-        "Enabled": false,
+        "Enabled": true,
         "Position": 1,
         "Size": 0
     },
@@ -16,7 +16,7 @@
             "ca-app-pub-6514041450334421/9652289777",
             "ca-app-pub-6514041450334421/3331296147"
         ],
-        "Enabled": false,
+        "Enabled": true,
         "Position": 5,
         "Width": 300,
         "Height": 250
@@ -24,7 +24,7 @@
     "AdUnits": [
         {
             "Name": "AppOpen",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6514041450334421/3697255513",
                 "ca-app-pub-6514041450334421/7845256221",
@@ -33,7 +33,7 @@
         },
         {
             "Name": "Interstitial",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6514041450334421/8353905570",
                 "ca-app-pub-6514041450334421/8299717643",
@@ -42,7 +42,7 @@
         },
         {
             "Name": "Rewarded",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6514041450334421/9786406745",
                 "ca-app-pub-6514041450334421/8228399600",
@@ -51,7 +51,7 @@
         },
         {
             "Name": "RewardedInterstitial",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6514041450334421/2592929541",
                 "ca-app-pub-6514041450334421/5219092888",
