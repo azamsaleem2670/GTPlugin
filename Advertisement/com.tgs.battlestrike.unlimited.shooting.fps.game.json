@@ -42,7 +42,7 @@
         },
         {
             "Name": "Rewarded",
-            "Enabled": true,
+            "Enabled": false,
             "Ids": [
                 "ca-app-pub-6514041450334421/9786406745",
                 "ca-app-pub-6514041450334421/8228399600",
