@@ -42,7 +42,7 @@
         },
         {
             "Name": "Rewarded",
-            "Enabled": true,
+            "Enabled": false,
             "Ids": [
                 "ca-app-pub-6514041450334421/6231399994",
                 "ca-app-pub-6514041450334421/6287240310",
@@ -51,7 +51,7 @@
         },
         {
             "Name": "RewardedInterstitial",
-            "Enabled": true,
+            "Enabled": false,
             "Ids": [
                 "ca-app-pub-6514041450334421/5109890018",
                 "ca-app-pub-6514041450334421/6422971682",
