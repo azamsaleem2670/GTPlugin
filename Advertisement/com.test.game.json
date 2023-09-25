@@ -1,145 +1,234 @@
 {
-    "AppId": "ca-app-pub-6514041450334421~5510451559",
-    "Banner": {
-        "Ids": [
-            "ca-app-pub-6514041450334421/8949582190",
-            "ca-app-pub-6514041450334421/6893484240",
-            "ca-app-pub-6514041450334421/2281652982"
-        ],
-        "Enabled": true,
-        "Position": 1,
-        "Size": 0
+  "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
+  "UnityAppId": "4565947",
+  "Banner": {
+    "Enabled": false,
+    "AdmobBanner": {
+      "Ids": [
+        "ca-app-pub-3940256099942544/6300978111",
+        "ca-app-pub-3940256099942544/6300978111",
+        "ca-app-pub-3940256099942544/6300978111"
+      ],
+      "Enabled": true,
+      "Position": 1,
+      "Size": 0
     },
-    "AdmobAdaptiveBanner": {
-        "Ids": [
-            "ca-app-pub-6514041450334421/8339208104",
-            "ca-app-pub-6514041450334421/9652289777",
-            "ca-app-pub-6514041450334421/3331296147"
-        ],
-        "Enabled": true,
-        "Position": 5,
-        "Width": 300,
-        "Height": 250
+    "UnityBanner": {
+      "Id": "Banner_Android",
+      "Position": 1
     },
-    "AdUnits": [
-        {
-            "Name": "AppOpen",
-            "Enabled": true,
-            "Ids": [
-                "ca-app-pub-6514041450334421/3697255513",
-                "ca-app-pub-6514041450334421/7845256221",
-                "ca-app-pub-6514041450334421/8926843263"
-            ]
-        },
-        {
-            "Name": "Interstitial",
-            "Enabled": true,
-            "Ids": [
-                "ca-app-pub-6514041450334421/8353905570",
-                "ca-app-pub-6514041450334421/8299717643",
-                "ca-app-pub-6514041450334421/1043511368"
-            ]
-        },
-        {
-            "Name": "Rewarded",
-            "Enabled": true,
-            "Ids": [
-                "ca-app-pub-6514041450334421/9786406745",
-                "ca-app-pub-6514041450334421/8228399600",
-                "ca-app-pub-6514041450334421/9749079465"
-            ]
-        },
-        {
-            "Name": "RewardedInterstitial",
-            "Enabled": true,
-            "Ids": [
-                "ca-app-pub-6514041450334421/2592929541",
-                "ca-app-pub-6514041450334421/5219092888",
-                "ca-app-pub-6514041450334421/5809834454"
-            ]
-        }
+    "Networks": []
+  },
+  "AdmobAdaptiveBanner": {
+    "Ids": [
+      "ca-app-pub-3940256099942544/6300978111",
+      "ca-app-pub-3940256099942544/6300978111",
+      "ca-app-pub-3940256099942544/6300978111"
     ],
-    "Events": [
-        {
-            "Name": "GameStart",
-            "Enabled": true
-        },
-        {
-            "Name": "PlayBtn",
-            "Enabled": true
-        },
-        {
-            "Name": "SettingBtn",
-            "Enabled": false
-        },
-        {
-            "Name": "Exit",
-            "Enabled": false
-        },
-        {
-            "Name": "ModeSelect",
-            "Enabled": false
-        },
-        {
-            "Name": "LevelSelect",
-            "Enabled": true
-        },
-        {
-            "Name": "WeaponSelect",
-            "Enabled": false
-        },
-        {
-            "Name": "ItemSelect",
-            "Enabled": true
-        },
-        {
-            "Name": "VehicleSelect",
-            "Enabled": true
-        },
-        {
-            "Name": "CharacterSelect",
-            "Enabled": true
-        },
-        {
-            "Name": "TeamSelect",
-            "Enabled": true
-        },
-        {
-            "Name": "StoreOpen",
-            "Enabled": false
-        },
-        {
-            "Name": "Pause",
-            "Enabled": true
-        },
-        {
-            "Name": "Home",
-            "Enabled": true
-        },
-        {
-            "Name": "Next",
-            "Enabled": true
-        },
-        {
-            "Name": "Retry",
-            "Enabled": true
-        },
-        {
-            "Name": "LevelComplete",
-            "Enabled": true
-        },
-        {
-            "Name": "LevelFail",
-            "Enabled": true
-        },
-        {
-            "Name": "RewardedAd",
-            "Enabled": true
-        },
-        {
-            "Name": "Gameplay",
-            "Enabled": false
-        }
-    ],
-    "GameplayAdInterval": 180.0
+    "Enabled": true,
+    "Position": 5,
+    "Width": 300,
+    "Height": 250
+  },
+  "AdmobAdUnits": [
+    {
+      "Name": "AppOpen",
+      "Enabled": true,
+      "Ids": [
+        "ca-app-pub-3940256099942544/3419835294",
+        "ca-app-pub-3940256099942544/3419835294",
+        "ca-app-pub-3940256099942544/3419835294"
+      ]
+    },
+    {
+      "Name": "Interstitial",
+      "Enabled": true,
+      "Ids": [
+        "ca-app-pub-3940256099942544/1033173712",
+        "ca-app-pub-3940256099942544/1033173712",
+        "ca-app-pub-3940256099942544/1033173712"
+      ]
+    },
+    {
+      "Name": "Rewarded",
+      "Enabled": true,
+      "Ids": [
+        "ca-app-pub-3940256099942544/5224354917",
+        "ca-app-pub-3940256099942544/5224354917",
+        "ca-app-pub-3940256099942544/5224354917"
+      ]
+    },
+    {
+      "Name": "RewardedInterstitial",
+      "Enabled": true,
+      "Ids": [
+        "ca-app-pub-3940256099942544/5354046379",
+        "ca-app-pub-3940256099942544/5354046379",
+        "ca-app-pub-3940256099942544/5354046379"
+      ]
+    }
+  ],
+  "UnityAdUnits": [
+    {
+      "Name": "Interstitial",
+      "Enabled": true,
+      "Ids": [
+        "Interstitial_Android"
+      ]
+    },
+    {
+      "Name": "Rewarded",
+      "Enabled": true,
+      "Ids": [
+        "Rewarded_Android"
+      ]
+    }
+  ],
+  "Events": [
+    {
+      "Name": "GameStart",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "PlayBtn",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "SettingBtn",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "Exit",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "ModeSelect",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "LevelSelect",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "ItemSelect",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "VehicleSelect",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "CharacterSelect",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "TeamSelect",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "StoreOpen",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "Pause",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "Home",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "Next",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "Retry",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "LevelComplete",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "LevelFail",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "Gameplay",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    }
+  ],
+  "GameplayAdInterval": 180.0
 }
