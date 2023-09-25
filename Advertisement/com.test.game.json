@@ -16,7 +16,10 @@
             "Id": "Banner_Android",
             "Position": 1
         },
-        "Networks": []
+        "Networks": [
+            0,
+            1
+        ]
     },
     "AdmobAdaptiveBanner": {
         "Ids": [
