@@ -62,7 +62,7 @@
     "Events": [
         {
             "Name": "GameStart",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "PlayBtn",
@@ -82,7 +82,7 @@
         },
         {
             "Name": "LevelSelect",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "WeaponSelect",
@@ -94,15 +94,15 @@
         },
         {
             "Name": "VehicleSelect",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "CharacterSelect",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "TeamSelect",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "StoreOpen",
@@ -118,11 +118,11 @@
         },
         {
             "Name": "Next",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Retry",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "LevelComplete",
