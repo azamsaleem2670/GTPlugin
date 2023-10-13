@@ -6,7 +6,7 @@
             "ca-app-pub-6514041450334421/6893484240",
             "ca-app-pub-6514041450334421/2281652982"
         ],
-        "Enabled": false,
+        "Enabled": true,
         "Position": 1,
         "Size": 0
     },
@@ -70,23 +70,23 @@
         },
         {
             "Name": "SettingBtn",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Exit",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "ModeSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "LevelSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "WeaponSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "ItemSelect",
@@ -102,11 +102,11 @@
         },
         {
             "Name": "TeamSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "StoreOpen",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Pause",
@@ -118,11 +118,11 @@
         },
         {
             "Name": "Next",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Retry",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "LevelComplete",
@@ -138,7 +138,7 @@
         },
         {
             "Name": "Gameplay",
-            "Enabled": false
+            "Enabled": true
         }
     ],
     "GameplayAdInterval": 180.0
