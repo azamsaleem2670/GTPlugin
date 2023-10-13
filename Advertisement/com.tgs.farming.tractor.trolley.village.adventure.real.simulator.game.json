@@ -6,7 +6,7 @@
             "ca-app-pub-6514041450334421/3922624407",
             "ca-app-pub-6514041450334421/2649372546"
         ],
-        "Enabled": false,
+        "Enabled": true,
         "Position": 0,
         "Size": 0
     },
@@ -16,7 +16,7 @@
             "ca-app-pub-6514041450334421/2646584643",
             "ca-app-pub-6514041450334421/2118588144"
         ],
-        "Enabled": false,
+        "Enabled": true,
         "Position": 5,
         "Width": 300,
         "Height": 250
@@ -82,7 +82,7 @@
         },
         {
             "Name": "LevelSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "ItemSelect",
@@ -90,7 +90,7 @@
         },
         {
             "Name": "VehicleSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "CharacterSelect",
@@ -102,7 +102,7 @@
         },
         {
             "Name": "StoreOpen",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Pause",
@@ -114,7 +114,7 @@
         },
         {
             "Name": "Next",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Retry",
