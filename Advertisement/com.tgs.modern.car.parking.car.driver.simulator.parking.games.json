@@ -218,7 +218,7 @@
           2,
           1
         ],
-        "Enabled": false
+        "Enabled": true
       }
     ],
     "GameplayAdInterval": 180.0
