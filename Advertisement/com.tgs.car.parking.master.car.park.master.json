@@ -13,7 +13,7 @@
             "Size": 4
         },
         "UnityBanner": {
-            "Id": "Banner_Android",
+            "Id": "Banner",
             "Position": 4
         },
         "Networks": [
