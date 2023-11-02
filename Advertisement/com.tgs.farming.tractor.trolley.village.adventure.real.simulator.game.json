@@ -2,7 +2,7 @@
     "AdmobAppId": "ca-app-pub-6514041450334421~5497514272",
     "UnityAppId": "4704705",
     "Banner": {
-        "Enabled": false,
+        "Enabled": true,
         "AdmobBanner": {
             "Ids": [
                 "ca-app-pub-6514041450334421/3786020890",
@@ -27,7 +27,7 @@
             "ca-app-pub-6514041450334421/2646584643",
             "ca-app-pub-6514041450334421/2118588144"
         ],
-        "Enabled": false,
+        "Enabled": true,
         "Position": 5,
         "Width": 300,
         "Height": 250
@@ -35,7 +35,7 @@
     "AdmobAdUnits": [
         {
             "Name": "AppOpen",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6514041450334421/4843171447",
                 "ca-app-pub-6514041450334421/2226399359",
@@ -44,7 +44,7 @@
         },
         {
             "Name": "Interstitial",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6514041450334421/8983379390",
                 "ca-app-pub-6514041450334421/9394442933",
@@ -53,7 +53,7 @@
         },
         {
             "Name": "Rewarded",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6514041450334421/4715959182",
                 "ca-app-pub-6514041450334421/7114891811",
@@ -62,7 +62,7 @@
         },
         {
             "Name": "RewardedInterstitial",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6514041450334421/7473984464",
                 "ca-app-pub-6514041450334421/6958979143",
@@ -73,14 +73,14 @@
     "UnityAdUnits": [
         {
             "Name": "Interstitial",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "Interstitial_Android"
             ]
         },
         {
             "Name": "Rewarded",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "Rewarded_Android"
             ]
