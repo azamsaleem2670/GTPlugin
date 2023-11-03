@@ -2,7 +2,7 @@
     "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
     "UnityAppId": "4565947",
     "Banner": {
-        "Enabled": false,
+        "Enabled": true,
         "AdmobBanner": {
             "Ids": [
                 "ca-app-pub-3940256099942544/6300978111",
@@ -27,7 +27,7 @@
             "ca-app-pub-3940256099942544/6300978111",
             "ca-app-pub-3940256099942544/6300978111"
         ],
-        "Enabled": false,
+        "Enabled": true,
         "Position": 5,
         "Width": 300,
         "Height": 250
@@ -35,7 +35,7 @@
     "AdmobAdUnits": [
         {
             "Name": "AppOpen",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-3940256099942544/3419835294",
                 "ca-app-pub-3940256099942544/3419835294",
@@ -44,7 +44,7 @@
         },
         {
             "Name": "Interstitial",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-3940256099942544/1033173712",
                 "ca-app-pub-3940256099942544/1033173712",
@@ -53,7 +53,7 @@
         },
         {
             "Name": "Rewarded",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-3940256099942544/5224354917",
                 "ca-app-pub-3940256099942544/5224354917",
@@ -62,7 +62,7 @@
         },
         {
             "Name": "RewardedInterstitial",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-3940256099942544/5354046379",
                 "ca-app-pub-3940256099942544/5354046379",
@@ -73,14 +73,14 @@
     "UnityAdUnits": [
         {
             "Name": "Interstitial",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "Interstitial_Android"
             ]
         },
         {
             "Name": "Rewarded",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "Rewarded_Android"
             ]
@@ -89,7 +89,7 @@
     "Events": [
         {
             "Name": "GameStart",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -97,7 +97,7 @@
         },
         {
             "Name": "PlayBtn",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -105,7 +105,7 @@
         },
         {
             "Name": "SettingBtn",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -113,7 +113,7 @@
         },
         {
             "Name": "Exit",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -121,7 +121,7 @@
         },
         {
             "Name": "ModeSelect",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -129,7 +129,7 @@
         },
         {
             "Name": "LevelSelect",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -137,7 +137,7 @@
         },
         {
             "Name": "ItemSelect",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -145,7 +145,7 @@
         },
         {
             "Name": "VehicleSelect",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -153,7 +153,7 @@
         },
         {
             "Name": "CharacterSelect",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -161,7 +161,7 @@
         },
         {
             "Name": "TeamSelect",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -169,7 +169,7 @@
         },
         {
             "Name": "StoreOpen",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -177,7 +177,7 @@
         },
         {
             "Name": "Pause",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -185,7 +185,7 @@
         },
         {
             "Name": "Home",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -193,7 +193,7 @@
         },
         {
             "Name": "Next",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -201,7 +201,7 @@
         },
         {
             "Name": "Retry",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -209,7 +209,7 @@
         },
         {
             "Name": "LevelComplete",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -217,7 +217,7 @@
         },
         {
             "Name": "LevelFail",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -225,7 +225,7 @@
         },
         {
             "Name": "Gameplay",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -233,7 +233,7 @@
         },
         {
             "Name": "Rewarded",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
