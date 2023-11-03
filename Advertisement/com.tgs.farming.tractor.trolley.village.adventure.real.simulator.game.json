@@ -1,25 +1,14 @@
 {
-    "AdmobAppId": "ca-app-pub-6514041450334421~5497514272",
-    "UnityAppId": "4704705",
+    "AppId": "ca-app-pub-6514041450334421~5497514272",
     "Banner": {
+        "Ids": [
+            "ca-app-pub-6514041450334421/3786020890",
+            "ca-app-pub-6514041450334421/3922624407",
+            "ca-app-pub-6514041450334421/2649372546"
+        ],
         "Enabled": true,
-        "AdmobBanner": {
-            "Ids": [
-                "ca-app-pub-6514041450334421/3786020890",
-                "ca-app-pub-6514041450334421/3922624407",
-                "ca-app-pub-6514041450334421/2649372546"
-            ],
-            "Position": 1,
-            "Size": 0
-        },
-        "UnityBanner": {
-            "Id": "Banner_Android",
-            "Position": 1
-        },
-        "Networks": [
-            0,
-            1
-        ]
+        "Position": 0,
+        "Size": 0
     },
     "AdmobAdaptiveBanner": {
         "Ids": [
@@ -32,7 +21,7 @@
         "Width": 300,
         "Height": 250
     },
-    "AdmobAdUnits": [
+    "AdUnits": [
         {
             "Name": "AppOpen",
             "Enabled": true,
@@ -70,22 +59,6 @@
             ]
         }
     ],
-    "UnityAdUnits": [
-        {
-            "Name": "Interstitial",
-            "Enabled": true,
-            "Ids": [
-                "Interstitial_Android"
-            ]
-        },
-        {
-            "Name": "Rewarded",
-            "Enabled": true,
-            "Ids": [
-                "Rewarded_Android"
-            ]
-        }
-    ],
     "Events": [
         {
             "Name": "GameStart",
@@ -109,7 +82,7 @@
         },
         {
             "Name": "LevelSelect",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "ItemSelect",
@@ -117,11 +90,11 @@
         },
         {
             "Name": "VehicleSelect",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "CharacterSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "TeamSelect",
@@ -141,7 +114,7 @@
         },
         {
             "Name": "Next",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Retry",
@@ -156,11 +129,11 @@
             "Enabled": true
         },
         {
-            "Name": "Gameplay",
+            "Name": "RewardedAd",
             "Enabled": true
         },
         {
-            "Name": "RewardedAd",
+            "Name": "Gameplay",
             "Enabled": true
         }
     ],
