@@ -102,7 +102,7 @@
         },
         {
             "Name": "StoreOpen",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "Pause",
