@@ -101,7 +101,7 @@
         },
         {
             "Name": "Exit",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -109,7 +109,7 @@
         },
         {
             "Name": "ModeSelect",
-            "Enabled": true,
+            "Enabled": false,
             "AdNetworks": [
                 0,
                 1
