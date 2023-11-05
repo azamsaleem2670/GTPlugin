@@ -77,79 +77,155 @@
     "Events": [
         {
             "Name": "GameStart",
-            "Enabled": false
+            "Enabled": false,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "PlayBtn",
-            "Enabled": true
+            "Enabled": true,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "SettingBtn",
-            "Enabled": true
+            "Enabled": true,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "Exit",
-            "Enabled": true
+            "Enabled": false,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "ModeSelect",
-            "Enabled": false
+            "Enabled": true,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "LevelSelect",
-            "Enabled": false
+            "Enabled": false,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "ItemSelect",
-            "Enabled": false
+            "Enabled": false,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "VehicleSelect",
-            "Enabled": false
+            "Enabled": false,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "CharacterSelect",
-            "Enabled": true
+            "Enabled": true,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "TeamSelect",
-            "Enabled": false
+            "Enabled": false,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "StoreOpen",
-            "Enabled": false
+            "Enabled": true,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "Pause",
-            "Enabled": true
+            "Enabled": true,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "Home",
-            "Enabled": true
+            "Enabled": true,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "Next",
-            "Enabled": true
+            "Enabled": false,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "Retry",
-            "Enabled": true
+            "Enabled": true,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "LevelComplete",
-            "Enabled": false
+            "Enabled": true,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "LevelFail",
-            "Enabled": false
-        },
-        {
-            "Name": "RewardedAd",
-            "Enabled": true
+            "Enabled": true,
+            "AdNetworks": [
+                0,
+                1
+            ]
         },
         {
             "Name": "Gameplay",
-            "Enabled": true
+            "Enabled": true,
+            "AdNetworks": [
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "RewardedAd",
+            "Enabled": true,
+            "AdNetworks": [
+                0,
+                1
+            ]
         }
     ],
     "GameplayAdInterval": 180.0
