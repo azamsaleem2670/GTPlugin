@@ -101,7 +101,7 @@
         },
         {
             "Name": "ItemSelect",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "VehicleSelect",
@@ -129,7 +129,7 @@
         },
         {
             "Name": "Next",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Retry",
@@ -137,11 +137,11 @@
         },
         {
             "Name": "LevelComplete",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "LevelFail",
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "RewardedAd",
