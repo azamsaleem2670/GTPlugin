@@ -117,7 +117,7 @@
         },
         {
             "Name": "LevelSelect",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -133,7 +133,7 @@
         },
         {
             "Name": "VehicleSelect",
-            "Enabled": false,
+            "Enabled": true,
             "AdNetworks": [
                 0,
                 1
@@ -189,7 +189,7 @@
         },
         {
             "Name": "Retry",
-            "Enabled": true,
+            "Enabled": false,
             "AdNetworks": [
                 0,
                 1
@@ -220,7 +220,7 @@
             ]
         },
         {
-            "Name": "RewardedAd",
+            "Name": "Rewarded",
             "Enabled": true,
             "AdNetworks": [
                 0,
