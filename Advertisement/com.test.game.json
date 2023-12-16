@@ -7,12 +7,12 @@
             "Ids": [
                 "ca-app-pub-3940256099942544/6300978111"
             ],
-            "Position": 0,
-            "Size": 4
+            "Position": 1,
+            "Size": 0
         },
         "UnityBanner": {
             "Id": "Banner_Android",
-            "Position": 1
+            "Position": 4
         },
         "Networks": [
             0,
