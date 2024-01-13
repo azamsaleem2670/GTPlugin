@@ -85,7 +85,7 @@
     },
     {
       "Name": "PlayBtn",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -93,7 +93,7 @@
     },
     {
       "Name": "SettingBtn",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -101,7 +101,7 @@
     },
     {
       "Name": "Exit",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -109,7 +109,7 @@
     },
     {
       "Name": "ModeSelect",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -117,7 +117,7 @@
     },
     {
       "Name": "LevelSelect",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -125,7 +125,7 @@
     },
     {
       "Name": "ItemSelect",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -133,7 +133,7 @@
     },
     {
       "Name": "VehicleSelect",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -141,7 +141,7 @@
     },
     {
       "Name": "CharacterSelect",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -149,7 +149,7 @@
     },
     {
       "Name": "TeamSelect",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -157,7 +157,7 @@
     },
     {
       "Name": "StoreOpen",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -165,7 +165,7 @@
     },
     {
       "Name": "Pause",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -173,7 +173,7 @@
     },
     {
       "Name": "Home",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -181,7 +181,7 @@
     },
     {
       "Name": "Next",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -189,7 +189,7 @@
     },
     {
       "Name": "Retry",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -197,7 +197,7 @@
     },
     {
       "Name": "LevelComplete",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -205,7 +205,7 @@
     },
     {
       "Name": "LevelFail",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -213,7 +213,7 @@
     },
     {
       "Name": "Gameplay",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
