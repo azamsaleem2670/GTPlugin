@@ -93,7 +93,7 @@
     },
     {
       "Name": "SettingBtn",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -101,7 +101,7 @@
     },
     {
       "Name": "Exit",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -109,7 +109,7 @@
     },
     {
       "Name": "ModeSelect",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -125,7 +125,7 @@
     },
     {
       "Name": "WeaponSelect",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -165,7 +165,7 @@
     },
     {
       "Name": "StoreOpen",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -173,7 +173,7 @@
     },
     {
       "Name": "Pause",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
