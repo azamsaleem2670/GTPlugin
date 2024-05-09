@@ -93,7 +93,7 @@
     },
     {
       "Name": "SettingBtn",
-      "Enabled": true,
+      "Enabled": false,
       "AdNetworks": [
         0,
         1
@@ -109,7 +109,7 @@
     },
     {
       "Name": "ModeSelect",
-      "Enabled": true,
+      "Enabled": false,
       "AdNetworks": [
         0,
         1
@@ -125,7 +125,7 @@
     },
     {
       "Name": "WeaponSelect",
-      "Enabled": true,
+      "Enabled": false,
       "AdNetworks": [
         0,
         1
@@ -173,7 +173,7 @@
     },
     {
       "Name": "Pause",
-      "Enabled": true,
+      "Enabled": false,
       "AdNetworks": [
         0,
         1
@@ -205,7 +205,7 @@
     },
     {
       "Name": "LevelComplete",
-      "Enabled": true,
+      "Enabled": false,
       "AdNetworks": [
         0,
         1
@@ -213,7 +213,7 @@
     },
     {
       "Name": "LevelFail",
-      "Enabled": true,
+      "Enabled": false,
       "AdNetworks": [
         0,
         1
