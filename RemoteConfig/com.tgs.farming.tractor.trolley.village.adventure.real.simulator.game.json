@@ -1,0 +1,1061 @@
+{
+    "LevelData": [
+        {
+            "Name": "PlowField",
+            "Type": 0,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "PlantSeed",
+            "Type": 1,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "WaterField",
+            "Type": 2,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "TransferGoods",
+            "Type": 3,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "MilkAndWoods",
+            "Type": 4,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "TransferAnimals",
+            "Type": 5,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "GrowCrops",
+            "Type": 6,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "ReapCrops",
+            "Type": 7,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "TransferCrops",
+            "Type": 8,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "VillageCarnival",
+            "Type": 9,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "WheatPress",
+            "Type": 10,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "WaterWell",
+            "Type": 11,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "CollectEggs",
+            "Type": 12,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "FishingCooking",
+            "Type": 13,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "PlantVegetableSeeds",
+            "Type": 14,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "WaterVegetable",
+            "Type": 15,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "FertilizeVegetable",
+            "Type": 16,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "CollectVegetables",
+            "Type": 17,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "SellVegetables",
+            "Type": 18,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        },
+        {
+            "Name": "DroneFlying",
+            "Type": 19,
+            "LevelTime": 600.0,
+            "LevelReward": 200
+        }
+    ],
+    "Adverstisement": [
+        {
+            "Name": "PlowField_InitCutsceneStart",
+            "AdEvent": 0,
+            "Enabled": false
+        },
+        {
+            "Name": "PlowField_InitCutsceneEnd",
+            "AdEvent": 1,
+            "Enabled": false
+        },
+        {
+            "Name": "PlowField_ObjectiveOk",
+            "AdEvent": 2,
+            "Enabled": false
+        },
+        {
+            "Name": "PlowField_SitInTractor",
+            "AdEvent": 3,
+            "Enabled": false
+        },
+        {
+            "Name": "PlowField_AttachPlough",
+            "AdEvent": 4,
+            "Enabled": false
+        },
+        {
+            "Name": "PlowField_StartFarming",
+            "AdEvent": 5,
+            "Enabled": false
+        },
+        {
+            "Name": "PlowField_EndFarming",
+            "AdEvent": 6,
+            "Enabled": false
+        },
+        {
+            "Name": "PlowField_DetachPlough",
+            "AdEvent": 7,
+            "Enabled": false
+        },
+        {
+            "Name": "PlowField_ParkTractor",
+            "AdEvent": 8,
+            "Enabled": false
+        },
+        {
+            "Name": "PlowField_FinalCutsceneStart",
+            "AdEvent": 9,
+            "Enabled": false
+        },
+        {
+            "Name": "PlowField_FinalCutsceneEnd",
+            "AdEvent": 10,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantSeed_InitCutsceneStart",
+            "AdEvent": 11,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantSeed_InitCutsceneEnd",
+            "AdEvent": 12,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantSeed_ObjectiveOk",
+            "AdEvent": 13,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantSeed_SitInTractor",
+            "AdEvent": 14,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantSeed_AttachPlanter",
+            "AdEvent": 15,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantSeed_StartFarming",
+            "AdEvent": 16,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantSeed_EndFarming",
+            "AdEvent": 17,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantSeed_DetachPlanter",
+            "AdEvent": 18,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantSeed_ParkTractor",
+            "AdEvent": 19,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantSeed_FinalCutsceneStart",
+            "AdEvent": 20,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantSeed_FinalCutsceneEnd",
+            "AdEvent": 21,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterField_InitCutsceneStart",
+            "AdEvent": 22,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterField_InitCutsceneEnd",
+            "AdEvent": 23,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterField_ObjectiveOk",
+            "AdEvent": 24,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterField_SitInTractor",
+            "AdEvent": 25,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterField_AttachSprayer",
+            "AdEvent": 26,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterField_StartFarming",
+            "AdEvent": 27,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterField_EndFarming",
+            "AdEvent": 28,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterField_DetachSprayer",
+            "AdEvent": 29,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterField_ParkTractor",
+            "AdEvent": 30,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterField_FinalCutsceneStart",
+            "AdEvent": 31,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterField_FinalCutsceneEnd",
+            "AdEvent": 32,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferGoods_InitCutsceneStart",
+            "AdEvent": 33,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferGoods_InitCutsceneEnd",
+            "AdEvent": 34,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferGoods_ObjectiveOk",
+            "AdEvent": 35,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferGoods_SitInVehicle",
+            "AdEvent": 36,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferGoods_GetOffVehicle",
+            "AdEvent": 37,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferGoods_LoadGoods",
+            "AdEvent": 38,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferGoods_UnloadGoods",
+            "AdEvent": 39,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferGoods_FinalCutsceneStart",
+            "AdEvent": 40,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferGoods_FinalCutsceneEnd",
+            "AdEvent": 41,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_InitCutsceneStart",
+            "AdEvent": 42,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_InitCutsceneEnd",
+            "AdEvent": 43,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_ObjectiveOk",
+            "AdEvent": 44,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_PickBucket",
+            "AdEvent": 45,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_MilkFirstCow",
+            "AdEvent": 46,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_MilkSecondCow",
+            "AdEvent": 47,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_MilkThirdCow",
+            "AdEvent": 48,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_StartMilkAnim",
+            "AdEvent": 49,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_EndMilkAnim",
+            "AdEvent": 50,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_GetInVehicle",
+            "AdEvent": 51,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_GetOffVehicle",
+            "AdEvent": 52,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_StartCutting",
+            "AdEvent": 53,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_EndCutting",
+            "AdEvent": 54,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_FinalCutsceneStart",
+            "AdEvent": 55,
+            "Enabled": false
+        },
+        {
+            "Name": "MilkAndWoods_FinalCutsceneEnd",
+            "AdEvent": 56,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferAnimals_InitCutsceneStart",
+            "AdEvent": 57,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferAnimals_InitCutsceneEnd",
+            "AdEvent": 58,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferAnimals_ObjectiveOk",
+            "AdEvent": 59,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferAnimals_GetInVehicle",
+            "AdEvent": 60,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferAnimals_AttachCage",
+            "AdEvent": 61,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferAnimals_LoadAnimals",
+            "AdEvent": 62,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferAnimals_UnloadCutSceneStart",
+            "AdEvent": 63,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferAnimals_UnloadCutSceneEnd",
+            "AdEvent": 64,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferAnimals_DetachCage",
+            "AdEvent": 65,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferAnimals_ParkVehicle",
+            "AdEvent": 66,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferAnimals_FinalCutsceneStart",
+            "AdEvent": 67,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferAnimals_FinalCutsceneEnd",
+            "AdEvent": 68,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterFieldAgain_InitCutsceneStart",
+            "AdEvent": 69,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterFieldAgain_InitCutsceneEnd",
+            "AdEvent": 70,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterFieldAgain_ObjectiveOk",
+            "AdEvent": 71,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterFieldAgain_SitInTractor",
+            "AdEvent": 72,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterFieldAgain_AttachSprayer",
+            "AdEvent": 73,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterFieldAgain_StartFarming",
+            "AdEvent": 74,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterFieldAgain_EndFarming",
+            "AdEvent": 75,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterFieldAgain_DetachSprayer",
+            "AdEvent": 76,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterFieldAgain_ParkTractor",
+            "AdEvent": 77,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterFieldAgain_FinalCutsceneStart",
+            "AdEvent": 78,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterFieldAgain_FinalCutsceneEnd",
+            "AdEvent": 79,
+            "Enabled": false
+        },
+        {
+            "Name": "ReapCrops_InitCutsceneStart",
+            "AdEvent": 80,
+            "Enabled": false
+        },
+        {
+            "Name": "ReapCrops_InitCutsceneEnd",
+            "AdEvent": 81,
+            "Enabled": false
+        },
+        {
+            "Name": "ReapCrops_ObjectiveOk",
+            "AdEvent": 82,
+            "Enabled": false
+        },
+        {
+            "Name": "ReapCrops_GetInVehicle",
+            "AdEvent": 83,
+            "Enabled": false
+        },
+        {
+            "Name": "ReapCrops_GetInTractor",
+            "AdEvent": 84,
+            "Enabled": false
+        },
+        {
+            "Name": "ReapCrops_StartFarming",
+            "AdEvent": 85,
+            "Enabled": false
+        },
+        {
+            "Name": "ReapCrops_EndFarming",
+            "AdEvent": 86,
+            "Enabled": false
+        },
+        {
+            "Name": "ReapCrops_FinalCutsceneStart",
+            "AdEvent": 87,
+            "Enabled": false
+        },
+        {
+            "Name": "ReapCrops_FinalCutsceneEnd",
+            "AdEvent": 88,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferCrops_InitCutsceneStart",
+            "AdEvent": 89,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferCrops_InitCutsceneEnd",
+            "AdEvent": 90,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferCrops_ObjectiveOk",
+            "AdEvent": 91,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferCrops_GetInVehicle",
+            "AdEvent": 92,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferCrops_FirstDelivery",
+            "AdEvent": 93,
+            "Enabled": false
+        },
+        {
+            "Name": "TransferCrops_SecondDelivery",
+            "AdEvent": 94,
+            "Enabled": false
+        },
+        {
+            "Name": "VillageCarnival_InitCutsceneStart",
+            "AdEvent": 95,
+            "Enabled": false
+        },
+        {
+            "Name": "VillageCarnival_InitCutsceneEnd",
+            "AdEvent": 96,
+            "Enabled": false
+        },
+        {
+            "Name": "VillageCarnival_ObjectiveOk",
+            "AdEvent": 97,
+            "Enabled": false
+        },
+        {
+            "Name": "VillageCarnival_FinalCutsceneStart",
+            "AdEvent": 98,
+            "Enabled": false
+        },
+        {
+            "Name": "VillageCarnival_FinalCutsceneEnd",
+            "AdEvent": 99,
+            "Enabled": false
+        },
+        {
+            "Name": "WheatPress_InitCutsceneStart",
+            "AdEvent": 100,
+            "Enabled": false
+        },
+        {
+            "Name": "WheatPress_InitCutsceneEnd",
+            "AdEvent": 101,
+            "Enabled": false
+        },
+        {
+            "Name": "WheatPress_ObjectiveOk",
+            "AdEvent": 102,
+            "Enabled": false
+        },
+        {
+            "Name": "WheatPress_GetInVehicle",
+            "AdEvent": 103,
+            "Enabled": false
+        },
+        {
+            "Name": "WheatPress_AttachBaler",
+            "AdEvent": 104,
+            "Enabled": false
+        },
+        {
+            "Name": "WheatPress_StartFarming",
+            "AdEvent": 105,
+            "Enabled": false
+        },
+        {
+            "Name": "WheatPress_EndFarming",
+            "AdEvent": 106,
+            "Enabled": false
+        },
+        {
+            "Name": "WheatPress_FinalCutsceneStart",
+            "AdEvent": 107,
+            "Enabled": false
+        },
+        {
+            "Name": "WheatPress_FinalCutsceneEnd",
+            "AdEvent": 108,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterWell_InitCutsceneStart",
+            "AdEvent": 109,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterWell_InitCutsceneEnd",
+            "AdEvent": 110,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterWell_ObjectiveOk",
+            "AdEvent": 111,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterWell_GetInVehicle",
+            "AdEvent": 112,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterWell_DrawWater",
+            "AdEvent": 113,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterWell_FinalCutsceneStart",
+            "AdEvent": 114,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterWell_FinalCutsceneEnd",
+            "AdEvent": 115,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectEggs_InitCutsceneStart",
+            "AdEvent": 116,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectEggs_InitCutsceneEnd",
+            "AdEvent": 117,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectEggs_ObjectiveOk",
+            "AdEvent": 118,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectEggs_GetInVehicle",
+            "AdEvent": 119,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectEggs_FirstPoultryComplete",
+            "AdEvent": 120,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectEggs_SecondPoultryComplete",
+            "AdEvent": 121,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectEggs_ThirdPoultryComplete",
+            "AdEvent": 122,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectEggs_FourthPoultryComplete",
+            "AdEvent": 123,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectEggs_FinalCutsceneStart",
+            "AdEvent": 124,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectEggs_FinalCutsceneEnd",
+            "AdEvent": 125,
+            "Enabled": false
+        },
+        {
+            "Name": "Fishing_InitCutsceneStart",
+            "AdEvent": 126,
+            "Enabled": false
+        },
+        {
+            "Name": "Fishing_InitCutsceneEnd",
+            "AdEvent": 127,
+            "Enabled": false
+        },
+        {
+            "Name": "Fishing_ObjectiveOk",
+            "AdEvent": 128,
+            "Enabled": false
+        },
+        {
+            "Name": "Fishing_GetInVehicle",
+            "AdEvent": 129,
+            "Enabled": false
+        },
+        {
+            "Name": "Fishing_StartFishing",
+            "AdEvent": 130,
+            "Enabled": false
+        },
+        {
+            "Name": "Fishing_GetInVehicleAgain",
+            "AdEvent": 131,
+            "Enabled": false
+        },
+        {
+            "Name": "Fishing_FinalCutsceneStart",
+            "AdEvent": 132,
+            "Enabled": false
+        },
+        {
+            "Name": "Fishing_FinalCutsceneEnd",
+            "AdEvent": 133,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantVegetable_InitCutsceneStart",
+            "AdEvent": 134,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantVegetable_InitCutsceneEnd",
+            "AdEvent": 135,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantVegetable_ObjectiveOk",
+            "AdEvent": 136,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantVegetable_GetInVehicle",
+            "AdEvent": 137,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantVegetable_StartPlanting",
+            "AdEvent": 138,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantVegetable_EndPlanting",
+            "AdEvent": 139,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantVegetable_GetInVehicleAgain",
+            "AdEvent": 140,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantVegetable_FinalCutsceneStart",
+            "AdEvent": 141,
+            "Enabled": false
+        },
+        {
+            "Name": "PlantVegetable_FinalCutsceneEnd",
+            "AdEvent": 142,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterVegetable_InitCutsceneStart",
+            "AdEvent": 143,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterVegetable_InitCutsceneEnd",
+            "AdEvent": 144,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterVegetable_ObjectiveOk",
+            "AdEvent": 145,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterVegetable_GetInVehicle",
+            "AdEvent": 146,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterVegetable_StartWatering",
+            "AdEvent": 147,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterVegetable_EndWatering",
+            "AdEvent": 148,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterVegetable_GetInVehicleAgain",
+            "AdEvent": 149,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterVegetable_FinalCutsceneStart",
+            "AdEvent": 150,
+            "Enabled": false
+        },
+        {
+            "Name": "WaterVegetable_FinalCutsceneEnd",
+            "AdEvent": 151,
+            "Enabled": false
+        },
+        {
+            "Name": "Fertilize_InitCutsceneStart",
+            "AdEvent": 152,
+            "Enabled": false
+        },
+        {
+            "Name": "Fertilize_InitCutsceneEnd",
+            "AdEvent": 153,
+            "Enabled": false
+        },
+        {
+            "Name": "Fertilize_ObjectiveOk",
+            "AdEvent": 154,
+            "Enabled": false
+        },
+        {
+            "Name": "Fertilize_GetInVehicle",
+            "AdEvent": 155,
+            "Enabled": false
+        },
+        {
+            "Name": "Fertilize_StartFertilizing",
+            "AdEvent": 156,
+            "Enabled": false
+        },
+        {
+            "Name": "Fertilize_EndFertilizing",
+            "AdEvent": 157,
+            "Enabled": false
+        },
+        {
+            "Name": "Fertilize_GetInVehicleAgain",
+            "AdEvent": 158,
+            "Enabled": false
+        },
+        {
+            "Name": "Fertilize_FinalCutsceneStart",
+            "AdEvent": 159,
+            "Enabled": false
+        },
+        {
+            "Name": "Fertilize_FinalCutsceneEnd",
+            "AdEvent": 160,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectVegetable_InitCutsceneStart",
+            "AdEvent": 161,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectVegetable_InitCutsceneEnd",
+            "AdEvent": 162,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectVegetable_ObjectiveOk",
+            "AdEvent": 163,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectVegetable_GetInVehicle",
+            "AdEvent": 164,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectVegetable_StartCollecting",
+            "AdEvent": 165,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectVegetable_EndCollecting",
+            "AdEvent": 166,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectVegetable_GetInVehicleAgain",
+            "AdEvent": 167,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectVegetable_FinalCutsceneStart",
+            "AdEvent": 168,
+            "Enabled": false
+        },
+        {
+            "Name": "CollectVegetable_FinalCutsceneEnd",
+            "AdEvent": 169,
+            "Enabled": false
+        },
+        {
+            "Name": "SellVegetable_InitCutsceneStart",
+            "AdEvent": 170,
+            "Enabled": false
+        },
+        {
+            "Name": "SellVegetable_InitCutsceneEnd",
+            "AdEvent": 171,
+            "Enabled": false
+        },
+        {
+            "Name": "SellVegetable_ObjectiveOk",
+            "AdEvent": 172,
+            "Enabled": false
+        },
+        {
+            "Name": "SellVegetable_LoadBoxes",
+            "AdEvent": 173,
+            "Enabled": false
+        },
+        {
+            "Name": "SellVegetable_UnLoadBoxes",
+            "AdEvent": 174,
+            "Enabled": false
+        },
+        {
+            "Name": "SellVegetable_FinalCutsceneStart",
+            "AdEvent": 175,
+            "Enabled": false
+        },
+        {
+            "Name": "SellVegetable_FinalCutsceneEnd",
+            "AdEvent": 176,
+            "Enabled": false
+        },
+        {
+            "Name": "DroneFly_InitCutsceneStart",
+            "AdEvent": 177,
+            "Enabled": false
+        },
+        {
+            "Name": "DroneFly_InitCutsceneEnd",
+            "AdEvent": 178,
+            "Enabled": false
+        },
+        {
+            "Name": "DroneFly_ObjectiveOk",
+            "AdEvent": 179,
+            "Enabled": false
+        },
+        {
+            "Name": "DroneFly_GetInVehicle",
+            "AdEvent": 180,
+            "Enabled": false
+        },
+        {
+            "Name": "DroneFly_GetOffVehicle",
+            "AdEvent": 181,
+            "Enabled": false
+        },
+        {
+            "Name": "DroneFly_StartFlying",
+            "AdEvent": 182,
+            "Enabled": false
+        },
+        {
+            "Name": "DroneFly_MidFlying",
+            "AdEvent": 183,
+            "Enabled": false
+        },
+        {
+            "Name": "DroneFly_EndFlying",
+            "AdEvent": 184,
+            "Enabled": false
+        },
+        {
+            "Name": "DroneFly_FinalCutsceneStart",
+            "AdEvent": 185,
+            "Enabled": false
+        },
+        {
+            "Name": "DroneFly_FinalCutsceneEnd",
+            "AdEvent": 186,
+            "Enabled": false
+        }
+    ]
+}
