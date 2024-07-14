@@ -3,122 +3,122 @@
         {
             "Name": "PlowField",
             "Type": 0,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 250
         },
         {
             "Name": "PlantSeed",
             "Type": 1,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 375
         },
         {
             "Name": "WaterField",
             "Type": 2,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 500
         },
         {
             "Name": "TransferGoods",
             "Type": 3,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 625
         },
         {
             "Name": "MilkAndWoods",
             "Type": 4,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 750
         },
         {
             "Name": "TransferAnimals",
             "Type": 5,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 875
         },
         {
             "Name": "GrowCrops",
             "Type": 6,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 1000
         },
         {
             "Name": "ReapCrops",
             "Type": 7,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 1125
         },
         {
             "Name": "TransferCrops",
             "Type": 8,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 1250
         },
         {
             "Name": "VillageCarnival",
             "Type": 9,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 1500
         },
         {
             "Name": "WheatPress",
             "Type": 10,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 1750
         },
         {
             "Name": "WaterWell",
             "Type": 11,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 2000
         },
         {
             "Name": "CollectEggs",
             "Type": 12,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 2250
         },
         {
             "Name": "FishingCooking",
             "Type": 13,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 2500
         },
         {
             "Name": "PlantVegetableSeeds",
             "Type": 14,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 2750
         },
         {
             "Name": "WaterVegetable",
             "Type": 15,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 3000
         },
         {
             "Name": "FertilizeVegetable",
             "Type": 16,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 3250
         },
         {
             "Name": "CollectVegetables",
             "Type": 17,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 3500
         },
         {
             "Name": "SellVegetables",
             "Type": 18,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 3750
         },
         {
             "Name": "DroneFlying",
             "Type": 19,
-            "LevelTime": 600.0,
-            "LevelReward": 200
+            "LevelTime": 1000.0,
+            "LevelReward": 4000
         }
     ],
     "LevelAdvertisement": [
@@ -128,47 +128,47 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "SitInTractor",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "AttachPlough",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "StartFarming",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "EndFarming",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "DetachPlough",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ParkTractor",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -178,47 +178,47 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "SitInTractor",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "AttachPlanter",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "StartFarming",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "EndFarming",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "DetachPlanter",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ParkTractor",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -228,47 +228,47 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "SitInTractor",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "AttachSprayer",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "StartFarming",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "EndFarming",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "DetachSprayer",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ParkTractor",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -278,39 +278,39 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "SitInVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetOffVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "LoadGoods",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "UnloadGoods",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -320,63 +320,63 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "PickBucket",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "MilkFirstCow",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "MilkSecondCow",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "MilkThirdCow",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "StartMilkAnim",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "EndMilkAnim",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetOffVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "StartCutting",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "EndCutting",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -386,51 +386,51 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "AttachCage",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "LoadAnimals",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "UnloadCutSceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "UnloadCutSceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "DetachCage",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ParkVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -440,47 +440,47 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "SitInTractor",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "AttachSprayer",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "StartFarming",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "EndFarming",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "DetachSprayer",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ParkTractor",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -490,39 +490,39 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInTractor",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "StartFarming",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "EndFarming",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -532,27 +532,27 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FirstDelivery",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "SecondDelivery",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -562,27 +562,27 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "RidingMid",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -592,39 +592,39 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "AttachBaler",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "StartFarming",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "EndFarming",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -634,31 +634,31 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "DrawWater",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -668,43 +668,43 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FirstPoultryComplete",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "SecondPoultryComplete",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ThirdPoultryComplete",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FourthPoultryComplete",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -714,31 +714,31 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicleAgain",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -748,39 +748,39 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "StartPlanting",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "EndPlanting",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicleAgain",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -790,39 +790,39 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "StartWatering",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "EndWatering",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicleAgain",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -832,39 +832,39 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "StartFertilizing",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "EndFertilizing",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicleAgain",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -874,39 +874,39 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "StartCollecting",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "EndCollecting",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicleAgain",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -916,31 +916,31 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "LoadBoxes",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "UnLoadBoxes",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         },
@@ -950,43 +950,43 @@
             "Ads": [
                 {
                     "Name": "InitCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "InitCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "ObjectiveOk",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetInVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "GetOffVehicle",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "StartFlying",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "MidFlying",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "EndFlying",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneStart",
-                    "Enabled": false
+                    "Enabled": true
                 },
                 {
                     "Name": "FinalCutsceneEnd",
-                    "Enabled": false
+                    "Enabled": true
                 }
             ]
         }
