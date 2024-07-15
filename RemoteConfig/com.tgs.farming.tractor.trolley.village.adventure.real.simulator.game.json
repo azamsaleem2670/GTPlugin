@@ -152,7 +152,7 @@
                 },
                 {
                     "Name": "EndFarming",
-                    "Enabled": true
+                    "Enabled": false
                 },
                 {
                     "Name": "DetachPlough",
@@ -198,7 +198,7 @@
                 },
                 {
                     "Name": "EndFarming",
-                    "Enabled": true
+                    "Enabled": false
                 },
                 {
                     "Name": "DetachPlanter",
@@ -248,7 +248,7 @@
                 },
                 {
                     "Name": "EndFarming",
-                    "Enabled": true
+                    "Enabled": false
                 },
                 {
                     "Name": "DetachSprayer",
@@ -460,7 +460,7 @@
                 },
                 {
                     "Name": "EndFarming",
-                    "Enabled": true
+                    "Enabled": false
                 },
                 {
                     "Name": "DetachSprayer",
@@ -510,7 +510,7 @@
                 },
                 {
                     "Name": "EndFarming",
-                    "Enabled": true
+                    "Enabled": false
                 },
                 {
                     "Name": "FinalCutsceneStart",
@@ -612,7 +612,7 @@
                 },
                 {
                     "Name": "EndFarming",
-                    "Enabled": true
+                    "Enabled": false
                 },
                 {
                     "Name": "FinalCutsceneStart",
@@ -684,7 +684,7 @@
                 },
                 {
                     "Name": "SecondPoultryComplete",
-                    "Enabled": true
+                    "Enabled": false
                 },
                 {
                     "Name": "ThirdPoultryComplete",
