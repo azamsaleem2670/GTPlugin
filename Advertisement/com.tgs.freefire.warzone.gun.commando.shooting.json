@@ -226,6 +226,38 @@
         0,
         1
       ]
+    },
+    {
+      "Name": "WeaponShop",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "PlayerShop",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "ShopOpen",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
+    },
+    {
+      "Name": "InventoryOpen",
+      "Enabled": true,
+      "AdNetworks": [
+        0,
+        1
+      ]
     }
   ],
   "GameplayAdInterval": 180.0
