@@ -762,140 +762,140 @@
     "PlayerItems": [
         {
             "Name": "Beard 1",
-            "CoinsPrice": 60,
-            "DiamondPrice": 30,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Beard 2",
-            "CoinsPrice": 100,
-            "DiamondPrice": 50,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Beard 3",
-            "CoinsPrice": 150,
-            "DiamondPrice": 75,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Beard 4",
-            "CoinsPrice": 200,
-            "DiamondPrice": 100,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Beard 5",
-            "CoinsPrice": 250,
-            "DiamondPrice": 125,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Beard 6",
-            "CoinsPrice": 300,
-            "DiamondPrice": 150,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Beard 7",
-            "CoinsPrice": 400,
-            "DiamondPrice": 200,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Beard 8",
-            "CoinsPrice": 450,
-            "DiamondPrice": 225,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Beard 9",
-            "CoinsPrice": 500,
-            "DiamondPrice": 250,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Beard 10",
             "CoinsPrice": 600,
             "DiamondPrice": 300,
             "AdsToUnlock": 2
         },
         {
+            "Name": "Beard 2",
+            "CoinsPrice": 1000,
+            "DiamondPrice": 500,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 3",
+            "CoinsPrice": 1200,
+            "DiamondPrice": 600,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 4",
+            "CoinsPrice": 1500,
+            "DiamondPrice": 750,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 5",
+            "CoinsPrice": 1800,
+            "DiamondPrice": 900,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 6",
+            "CoinsPrice": 2000,
+            "DiamondPrice": 1000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 7",
+            "CoinsPrice": 2200,
+            "DiamondPrice": 1100,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 8",
+            "CoinsPrice": 2500,
+            "DiamondPrice": 1250,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 9",
+            "CoinsPrice": 2800,
+            "DiamondPrice": 1400,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 10",
+            "CoinsPrice": 3000,
+            "DiamondPrice": 1500,
+            "AdsToUnlock": 2
+        },
+        {
             "Name": "Beard 11",
-            "CoinsPrice": 700,
-            "DiamondPrice": 350,
+            "CoinsPrice": 3500,
+            "DiamondPrice": 1750,
             "AdsToUnlock": 2
         },
         {
             "Name": "Beard 12",
+            "CoinsPrice": 4000,
+            "DiamondPrice": 2000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Male Hair 1",
+            "CoinsPrice": 600,
+            "DiamondPrice": 300,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Male Hair 2",
             "CoinsPrice": 800,
             "DiamondPrice": 400,
             "AdsToUnlock": 2
         },
         {
-            "Name": "Male Hair 1",
-            "CoinsPrice": 30,
-            "DiamondPrice": 15,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Male Hair 2",
-            "CoinsPrice": 60,
-            "DiamondPrice": 30,
-            "AdsToUnlock": 2
-        },
-        {
             "Name": "Male Hair 3",
-            "CoinsPrice": 90,
-            "DiamondPrice": 45,
+            "CoinsPrice": 1100,
+            "DiamondPrice": 550,
             "AdsToUnlock": 2
         },
         {
             "Name": "Male Hair 4",
-            "CoinsPrice": 120,
-            "DiamondPrice": 60,
+            "CoinsPrice": 1300,
+            "DiamondPrice": 650,
             "AdsToUnlock": 2
         },
         {
             "Name": "Male Hair 5",
-            "CoinsPrice": 150,
-            "DiamondPrice": 75,
+            "CoinsPrice": 1700,
+            "DiamondPrice": 850,
             "AdsToUnlock": 2
         },
         {
             "Name": "Male Hair 6",
-            "CoinsPrice": 200,
-            "DiamondPrice": 100,
+            "CoinsPrice": 1900,
+            "DiamondPrice": 950,
             "AdsToUnlock": 2
         },
         {
             "Name": "Male Hair 7",
-            "CoinsPrice": 250,
-            "DiamondPrice": 125,
+            "CoinsPrice": 2200,
+            "DiamondPrice": 1150,
             "AdsToUnlock": 2
         },
         {
             "Name": "Male Hair 8",
-            "CoinsPrice": 280,
-            "DiamondPrice": 140,
+            "CoinsPrice": 2500,
+            "DiamondPrice": 1250,
             "AdsToUnlock": 2
         },
         {
             "Name": "Male Hair 9",
-            "CoinsPrice": 300,
-            "DiamondPrice": 150,
+            "CoinsPrice": 2800,
+            "DiamondPrice": 1400,
             "AdsToUnlock": 2
         },
         {
             "Name": "Male Hair 10",
-            "CoinsPrice": 320,
-            "DiamondPrice": 160,
+            "CoinsPrice": 3200,
+            "DiamondPrice": 1600,
             "AdsToUnlock": 2
         },
         {
             "Name": "Male Hair 11",
-            "CoinsPrice": 340,
-            "DiamondPrice": 170,
+            "CoinsPrice": 3400,
+            "DiamondPrice": 1700,
             "AdsToUnlock": 2
         },
         {
@@ -906,188 +906,188 @@
         },
         {
             "Name": "Female Hair 2",
-            "CoinsPrice": 60,
-            "DiamondPrice": 30,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Female Hair 3",
-            "CoinsPrice": 80,
-            "DiamondPrice": 40,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Female Hair 4",
-            "CoinsPrice": 100,
-            "DiamondPrice": 50,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Female Hair 5",
-            "CoinsPrice": 120,
-            "DiamondPrice": 60,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Bag 1",
-            "CoinsPrice": 80,
-            "DiamondPrice": 40,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Bag 2",
-            "CoinsPrice": 120,
-            "DiamondPrice": 60,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Goggles 1",
-            "CoinsPrice": 60,
-            "DiamondPrice": 30,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Goggles 2",
-            "CoinsPrice": 80,
-            "DiamondPrice": 40,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Goggles 3",
-            "CoinsPrice": 100,
-            "DiamondPrice": 50,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Goggles 4",
-            "CoinsPrice": 120,
-            "DiamondPrice": 60,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Goggles 5",
-            "CoinsPrice": 140,
-            "DiamondPrice": 70,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Goggles 6",
-            "CoinsPrice": 150,
-            "DiamondPrice": 75,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Earmuffs",
-            "CoinsPrice": 200,
-            "DiamondPrice": 100,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Hat 1",
-            "CoinsPrice": 100,
-            "DiamondPrice": 50,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Hat 2",
-            "CoinsPrice": 200,
-            "DiamondPrice": 100,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Hat 3",
-            "CoinsPrice": 300,
-            "DiamondPrice": 150,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Hat 4",
-            "CoinsPrice": 400,
-            "DiamondPrice": 200,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Hat 5",
-            "CoinsPrice": 500,
-            "DiamondPrice": 250,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Helmet 1",
-            "CoinsPrice": 300,
-            "DiamondPrice": 150,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Helmet 2",
-            "CoinsPrice": 400,
-            "DiamondPrice": 200,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Helmet 3",
-            "CoinsPrice": 500,
-            "DiamondPrice": 250,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Helmet 4",
             "CoinsPrice": 600,
             "DiamondPrice": 300,
             "AdsToUnlock": 2
         },
         {
-            "Name": "NVG 1",
-            "CoinsPrice": 300,
-            "DiamondPrice": 150,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "NVG 2",
-            "CoinsPrice": 400,
-            "DiamondPrice": 200,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "NVG 3",
+            "Name": "Female Hair 3",
             "CoinsPrice": 800,
             "DiamondPrice": 400,
             "AdsToUnlock": 2
         },
         {
-            "Name": "Walkie Talkie",
-            "CoinsPrice": 600,
-            "DiamondPrice": 300,
-            "AdsToUnlock": 2
-        },
-        {
-            "Name": "Radio",
+            "Name": "Female Hair 4",
             "CoinsPrice": 1000,
             "DiamondPrice": 500,
             "AdsToUnlock": 2
         },
         {
-            "Name": "Equipment 1",
-            "CoinsPrice": 300,
-            "DiamondPrice": 150,
+            "Name": "Female Hair 5",
+            "CoinsPrice": 1200,
+            "DiamondPrice": 600,
             "AdsToUnlock": 2
         },
         {
-            "Name": "Equipment 2",
-            "CoinsPrice": 400,
-            "DiamondPrice": 200,
+            "Name": "Bag 1",
+            "CoinsPrice": 800,
+            "DiamondPrice": 400,
             "AdsToUnlock": 2
         },
         {
-            "Name": "Equipment 3",
+            "Name": "Bag 2",
+            "CoinsPrice": 1200,
+            "DiamondPrice": 600,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Goggles 1",
             "CoinsPrice": 600,
             "DiamondPrice": 300,
             "AdsToUnlock": 2
         },
         {
-            "Name": "Equipment 4",
+            "Name": "Goggles 2",
             "CoinsPrice": 800,
             "DiamondPrice": 400,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Goggles 3",
+            "CoinsPrice": 1000,
+            "DiamondPrice": 500,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Goggles 4",
+            "CoinsPrice": 1200,
+            "DiamondPrice": 600,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Goggles 5",
+            "CoinsPrice": 1140,
+            "DiamondPrice": 570,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Goggles 6",
+            "CoinsPrice": 1150,
+            "DiamondPrice": 750,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Earmuffs",
+            "CoinsPrice": 2000,
+            "DiamondPrice": 1000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Hat 1",
+            "CoinsPrice": 1100,
+            "DiamondPrice": 1500,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Hat 2",
+            "CoinsPrice": 1200,
+            "DiamondPrice": 1100,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Hat 3",
+            "CoinsPrice": 1300,
+            "DiamondPrice": 1150,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Hat 4",
+            "CoinsPrice": 1400,
+            "DiamondPrice": 1200,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Hat 5",
+            "CoinsPrice": 1500,
+            "DiamondPrice": 1250,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Helmet 1",
+            "CoinsPrice": 1300,
+            "DiamondPrice": 1150,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Helmet 2",
+            "CoinsPrice": 1400,
+            "DiamondPrice": 1200,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Helmet 3",
+            "CoinsPrice": 1500,
+            "DiamondPrice": 1250,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Helmet 4",
+            "CoinsPrice": 1600,
+            "DiamondPrice": 1300,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "NVG 1",
+            "CoinsPrice": 1300,
+            "DiamondPrice": 1150,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "NVG 2",
+            "CoinsPrice": 1400,
+            "DiamondPrice": 1200,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "NVG 3",
+            "CoinsPrice": 1800,
+            "DiamondPrice": 1400,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Walkie Talkie",
+            "CoinsPrice": 1200,
+            "DiamondPrice": 900,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Radio",
+            "CoinsPrice": 1000,
+            "DiamondPrice": 750,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Equipment 1",
+            "CoinsPrice": 1300,
+            "DiamondPrice": 1150,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Equipment 2",
+            "CoinsPrice": 1400,
+            "DiamondPrice": 1200,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Equipment 3",
+            "CoinsPrice": 1600,
+            "DiamondPrice": 1300,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Equipment 4",
+            "CoinsPrice": 1800,
+            "DiamondPrice": 1400,
             "AdsToUnlock": 2
         }
     ]
