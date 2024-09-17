@@ -1,1 +1,1094 @@
-
+{
+    "BattleFields": [
+        {
+            "Name": "Bank",
+            "IsTimeBased": true,
+            "Levels": [
+                {
+                    "Enemies": 3,
+                    "Time": 300,
+                    "CoinsReward": 100,
+                    "DiamondsReward": 50
+                },
+                {
+                    "Enemies": 4,
+                    "Time": 330,
+                    "CoinsReward": 200,
+                    "DiamondsReward": 100
+                },
+                {
+                    "Enemies": 5,
+                    "Time": 360,
+                    "CoinsReward": 400,
+                    "DiamondsReward": 200
+                },
+                {
+                    "Enemies": 6,
+                    "Time": 420,
+                    "CoinsReward": 600,
+                    "DiamondsReward": 300
+                },
+                {
+                    "Enemies": 8,
+                    "Time": 480,
+                    "CoinsReward": 800,
+                    "DiamondsReward": 400
+                },
+                {
+                    "Enemies": 10,
+                    "Time": 540,
+                    "CoinsReward": 1000,
+                    "DiamondsReward": 500
+                },
+                {
+                    "Enemies": 11,
+                    "Time": 660,
+                    "CoinsReward": 1200,
+                    "DiamondsReward": 600
+                },
+                {
+                    "Enemies": 12,
+                    "Time": 700,
+                    "CoinsReward": 1400,
+                    "DiamondsReward": 700
+                },
+                {
+                    "Enemies": 13,
+                    "Time": 750,
+                    "CoinsReward": 1600,
+                    "DiamondsReward": 800
+                },
+                {
+                    "Enemies": 14,
+                    "Time": 810,
+                    "CoinsReward": 1800,
+                    "DiamondsReward": 900
+                },
+                {
+                    "Enemies": 15,
+                    "Time": 870,
+                    "CoinsReward": 2000,
+                    "DiamondsReward": 1000
+                },
+                {
+                    "Enemies": 16,
+                    "Time": 930,
+                    "CoinsReward": 2200,
+                    "DiamondsReward": 1100
+                },
+                {
+                    "Enemies": 17,
+                    "Time": 990,
+                    "CoinsReward": 2400,
+                    "DiamondsReward": 1200
+                },
+                {
+                    "Enemies": 18,
+                    "Time": 1080,
+                    "CoinsReward": 2600,
+                    "DiamondsReward": 1300
+                },
+                {
+                    "Enemies": 19,
+                    "Time": 1140,
+                    "CoinsReward": 2800,
+                    "DiamondsReward": 1400
+                },
+                {
+                    "Enemies": 20,
+                    "Time": 1200,
+                    "CoinsReward": 3000,
+                    "DiamondsReward": 1500
+                },
+                {
+                    "Enemies": 21,
+                    "Time": 1230,
+                    "CoinsReward": 3200,
+                    "DiamondsReward": 1600
+                },
+                {
+                    "Enemies": 22,
+                    "Time": 1260,
+                    "CoinsReward": 3400,
+                    "DiamondsReward": 1700
+                },
+                {
+                    "Enemies": 23,
+                    "Time": 1320,
+                    "CoinsReward": 3600,
+                    "DiamondsReward": 1800
+                },
+                {
+                    "Enemies": 24,
+                    "Time": 1380,
+                    "CoinsReward": 3800,
+                    "DiamondsReward": 1900
+                }
+            ]
+        },
+        {
+            "Name": "Battle",
+            "IsTimeBased": false,
+            "Levels": [
+                {
+                    "Enemies": 3,
+                    "Time": 600,
+                    "CoinsReward": 100,
+                    "DiamondsReward": 50
+                },
+                {
+                    "Enemies": 4,
+                    "Time": 660,
+                    "CoinsReward": 600,
+                    "DiamondsReward": 100
+                },
+                {
+                    "Enemies": 5,
+                    "Time": 720,
+                    "CoinsReward": 600,
+                    "DiamondsReward": 200
+                },
+                {
+                    "Enemies": 6,
+                    "Time": 780,
+                    "CoinsReward": 600,
+                    "DiamondsReward": 300
+                },
+                {
+                    "Enemies": 8,
+                    "Time": 780,
+                    "CoinsReward": 800,
+                    "DiamondsReward": 400
+                },
+                {
+                    "Enemies": 10,
+                    "Time": 780,
+                    "CoinsReward": 1000,
+                    "DiamondsReward": 500
+                },
+                {
+                    "Enemies": 11,
+                    "Time": 900,
+                    "CoinsReward": 1200,
+                    "DiamondsReward": 600
+                },
+                {
+                    "Enemies": 12,
+                    "Time": 900,
+                    "CoinsReward": 1400,
+                    "DiamondsReward": 700
+                },
+                {
+                    "Enemies": 13,
+                    "Time": 900,
+                    "CoinsReward": 1600,
+                    "DiamondsReward": 800
+                },
+                {
+                    "Enemies": 14,
+                    "Time": 960,
+                    "CoinsReward": 1800,
+                    "DiamondsReward": 900
+                },
+                {
+                    "Enemies": 15,
+                    "Time": 1020,
+                    "CoinsReward": 2000,
+                    "DiamondsReward": 1000
+                },
+                {
+                    "Enemies": 16,
+                    "Time": 1080,
+                    "CoinsReward": 2200,
+                    "DiamondsReward": 1100
+                },
+                {
+                    "Enemies": 17,
+                    "Time": 1140,
+                    "CoinsReward": 2400,
+                    "DiamondsReward": 1200
+                },
+                {
+                    "Enemies": 18,
+                    "Time": 1200,
+                    "CoinsReward": 2600,
+                    "DiamondsReward": 1300
+                },
+                {
+                    "Enemies": 19,
+                    "Time": 1230,
+                    "CoinsReward": 2800,
+                    "DiamondsReward": 1400
+                },
+                {
+                    "Enemies": 20,
+                    "Time": 1290,
+                    "CoinsReward": 3000,
+                    "DiamondsReward": 1500
+                },
+                {
+                    "Enemies": 21,
+                    "Time": 1350,
+                    "CoinsReward": 3200,
+                    "DiamondsReward": 1600
+                },
+                {
+                    "Enemies": 22,
+                    "Time": 1400,
+                    "CoinsReward": 3400,
+                    "DiamondsReward": 1700
+                },
+                {
+                    "Enemies": 23,
+                    "Time": 1500,
+                    "CoinsReward": 3600,
+                    "DiamondsReward": 1800
+                },
+                {
+                    "Enemies": 24,
+                    "Time": 1740,
+                    "CoinsReward": 3800,
+                    "DiamondsReward": 1900
+                }
+            ]
+        },
+        {
+            "Name": "Terrorism",
+            "IsTimeBased": false,
+            "Levels": [
+                {
+                    "Enemies": 3,
+                    "Time": 600,
+                    "CoinsReward": 100,
+                    "DiamondsReward": 50
+                },
+                {
+                    "Enemies": 4,
+                    "Time": 720,
+                    "CoinsReward": 600,
+                    "DiamondsReward": 100
+                },
+                {
+                    "Enemies": 5,
+                    "Time": 750,
+                    "CoinsReward": 600,
+                    "DiamondsReward": 200
+                },
+                {
+                    "Enemies": 6,
+                    "Time": 780,
+                    "CoinsReward": 600,
+                    "DiamondsReward": 300
+                },
+                {
+                    "Enemies": 8,
+                    "Time": 840,
+                    "CoinsReward": 800,
+                    "DiamondsReward": 400
+                },
+                {
+                    "Enemies": 10,
+                    "Time": 870,
+                    "CoinsReward": 1000,
+                    "DiamondsReward": 500
+                },
+                {
+                    "Enemies": 11,
+                    "Time": 930,
+                    "CoinsReward": 1200,
+                    "DiamondsReward": 600
+                },
+                {
+                    "Enemies": 12,
+                    "Time": 990,
+                    "CoinsReward": 1400,
+                    "DiamondsReward": 700
+                },
+                {
+                    "Enemies": 13,
+                    "Time": 1080,
+                    "CoinsReward": 1600,
+                    "DiamondsReward": 800
+                },
+                {
+                    "Enemies": 14,
+                    "Time": 1140,
+                    "CoinsReward": 1800,
+                    "DiamondsReward": 900
+                },
+                {
+                    "Enemies": 15,
+                    "Time": 1200,
+                    "CoinsReward": 2000,
+                    "DiamondsReward": 1000
+                },
+                {
+                    "Enemies": 16,
+                    "Time": 1260,
+                    "CoinsReward": 2200,
+                    "DiamondsReward": 1100
+                },
+                {
+                    "Enemies": 17,
+                    "Time": 1320,
+                    "CoinsReward": 2400,
+                    "DiamondsReward": 1200
+                },
+                {
+                    "Enemies": 18,
+                    "Time": 1380,
+                    "CoinsReward": 2600,
+                    "DiamondsReward": 1300
+                },
+                {
+                    "Enemies": 19,
+                    "Time": 1500,
+                    "CoinsReward": 2800,
+                    "DiamondsReward": 1400
+                },
+                {
+                    "Enemies": 20,
+                    "Time": 1560,
+                    "CoinsReward": 3000,
+                    "DiamondsReward": 1500
+                },
+                {
+                    "Enemies": 21,
+                    "Time": 1680,
+                    "CoinsReward": 3200,
+                    "DiamondsReward": 1600
+                },
+                {
+                    "Enemies": 22,
+                    "Time": 1800,
+                    "CoinsReward": 3400,
+                    "DiamondsReward": 1700
+                },
+                {
+                    "Enemies": 23,
+                    "Time": 1950,
+                    "CoinsReward": 3600,
+                    "DiamondsReward": 1800
+                },
+                {
+                    "Enemies": 24,
+                    "Time": 2040,
+                    "CoinsReward": 3800,
+                    "DiamondsReward": 1900
+                }
+            ]
+        },
+        {
+            "Name": "Yakuza",
+            "IsTimeBased": true,
+            "Levels": [
+                {
+                    "Enemies": 3,
+                    "Time": 360,
+                    "CoinsReward": 100,
+                    "DiamondsReward": 50
+                },
+                {
+                    "Enemies": 4,
+                    "Time": 390,
+                    "CoinsReward": 200,
+                    "DiamondsReward": 100
+                },
+                {
+                    "Enemies": 5,
+                    "Time": 420,
+                    "CoinsReward": 400,
+                    "DiamondsReward": 200
+                },
+                {
+                    "Enemies": 6,
+                    "Time": 420,
+                    "CoinsReward": 600,
+                    "DiamondsReward": 300
+                },
+                {
+                    "Enemies": 8,
+                    "Time": 480,
+                    "CoinsReward": 800,
+                    "DiamondsReward": 400
+                },
+                {
+                    "Enemies": 10,
+                    "Time": 600,
+                    "CoinsReward": 1000,
+                    "DiamondsReward": 500
+                },
+                {
+                    "Enemies": 11,
+                    "Time": 720,
+                    "CoinsReward": 1200,
+                    "DiamondsReward": 600
+                },
+                {
+                    "Enemies": 12,
+                    "Time": 720,
+                    "CoinsReward": 1400,
+                    "DiamondsReward": 700
+                },
+                {
+                    "Enemies": 13,
+                    "Time": 780,
+                    "CoinsReward": 1600,
+                    "DiamondsReward": 800
+                },
+                {
+                    "Enemies": 14,
+                    "Time": 840,
+                    "CoinsReward": 1800,
+                    "DiamondsReward": 900
+                },
+                {
+                    "Enemies": 15,
+                    "Time": 900,
+                    "CoinsReward": 2000,
+                    "DiamondsReward": 1000
+                },
+                {
+                    "Enemies": 16,
+                    "Time": 1020,
+                    "CoinsReward": 2200,
+                    "DiamondsReward": 1100
+                },
+                {
+                    "Enemies": 17,
+                    "Time": 1020,
+                    "CoinsReward": 2400,
+                    "DiamondsReward": 1200
+                },
+                {
+                    "Enemies": 18,
+                    "Time": 1140,
+                    "CoinsReward": 2600,
+                    "DiamondsReward": 1300
+                },
+                {
+                    "Enemies": 19,
+                    "Time": 1140,
+                    "CoinsReward": 2800,
+                    "DiamondsReward": 1400
+                },
+                {
+                    "Enemies": 20,
+                    "Time": 1200,
+                    "CoinsReward": 3000,
+                    "DiamondsReward": 1500
+                },
+                {
+                    "Enemies": 21,
+                    "Time": 1200,
+                    "CoinsReward": 3200,
+                    "DiamondsReward": 1600
+                },
+                {
+                    "Enemies": 22,
+                    "Time": 1230,
+                    "CoinsReward": 3400,
+                    "DiamondsReward": 1700
+                },
+                {
+                    "Enemies": 23,
+                    "Time": 1290,
+                    "CoinsReward": 3600,
+                    "DiamondsReward": 1800
+                },
+                {
+                    "Enemies": 24,
+                    "Time": 1380,
+                    "CoinsReward": 3800,
+                    "DiamondsReward": 1900
+                }
+            ]
+        }
+    ],
+    "Weapons": [
+        {
+            "Name": "Shadowstrike Dagger",
+            "CoinsPrice": 500,
+            "DiamondPrice": 250,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Frostbite Edge",
+            "CoinsPrice": 750,
+            "DiamondPrice": 375,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Fang Dagger",
+            "CoinsPrice": 1000,
+            "DiamondPrice": 500,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Tempest Blade",
+            "CoinsPrice": 1200,
+            "DiamondPrice": 600,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Inferno Blade",
+            "CoinsPrice": 1400,
+            "DiamondPrice": 700,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Thunderclap Blade",
+            "CoinsPrice": 1600,
+            "DiamondPrice": 800,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Kukri",
+            "CoinsPrice": 1800,
+            "DiamondPrice": 900,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "M1911",
+            "CoinsPrice": 600,
+            "DiamondPrice": 300,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Ashani",
+            "CoinsPrice": 1000,
+            "DiamondPrice": 500,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Bretta",
+            "CoinsPrice": 1200,
+            "DiamondPrice": 600,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Desert Eagle",
+            "CoinsPrice": 1500,
+            "DiamondPrice": 750,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Glock",
+            "CoinsPrice": 1800,
+            "DiamondPrice": 900,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "STR 9",
+            "CoinsPrice": 2000,
+            "DiamondPrice": 1000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Mac 10",
+            "CoinsPrice": 1500,
+            "DiamondPrice": 750,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "UZI",
+            "CoinsPrice": 2000,
+            "DiamondPrice": 1000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "AR57",
+            "CoinsPrice": 2500,
+            "DiamondPrice": 1250,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Mini Draco",
+            "CoinsPrice": 3000,
+            "DiamondPrice": 1500,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "SMG",
+            "CoinsPrice": 4000,
+            "DiamondPrice": 2000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "PDR",
+            "CoinsPrice": 2000,
+            "DiamondPrice": 1000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "G3",
+            "CoinsPrice": 4000,
+            "DiamondPrice": 2000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "AK47",
+            "CoinsPrice": 6000,
+            "DiamondPrice": 3000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "M4 A1 M203",
+            "CoinsPrice": 8000,
+            "DiamondPrice": 4000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "ACR",
+            "CoinsPrice": 10000,
+            "DiamondPrice": 5000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "AK 203",
+            "CoinsPrice": 12000,
+            "DiamondPrice": 6000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "HK",
+            "CoinsPrice": 14000,
+            "DiamondPrice": 7000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "M4 A1",
+            "CoinsPrice": 16000,
+            "DiamondPrice": 8000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Double Eagle",
+            "CoinsPrice": 750,
+            "DiamondPrice": 1500,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Mossberg 500",
+            "CoinsPrice": 1000,
+            "DiamondPrice": 2000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Benelli M3",
+            "CoinsPrice": 1500,
+            "DiamondPrice": 3000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Benelli",
+            "CoinsPrice": 2000,
+            "DiamondPrice": 4000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Steyr SSG 69",
+            "CoinsPrice": 3000,
+            "DiamondPrice": 1500,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Dragunov",
+            "CoinsPrice": 4000,
+            "DiamondPrice": 2000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Dragunov Tactical",
+            "CoinsPrice": 6000,
+            "DiamondPrice": 3000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "DSR-1",
+            "CoinsPrice": 8000,
+            "DiamondPrice": 4000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "AR10",
+            "CoinsPrice": 10000,
+            "DiamondPrice": 5000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "M110",
+            "CoinsPrice": 12000,
+            "DiamondPrice": 6000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "MK12 SPR",
+            "CoinsPrice": 15000,
+            "DiamondPrice": 7500,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "AWM",
+            "CoinsPrice": 18000,
+            "DiamondPrice": 9000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "AR 50",
+            "CoinsPrice": 20000,
+            "DiamondPrice": 10000,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Machete",
+            "CoinsPrice": 1200,
+            "DiamondPrice": 600,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Eternal Dawn",
+            "CoinsPrice": 1400,
+            "DiamondPrice": 700,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Katana",
+            "CoinsPrice": 3000,
+            "DiamondPrice": 1500,
+            "AdsToUnlock": 2
+        }
+    ],
+    "PlayerItems": [
+        {
+            "Name": "Beard 1",
+            "CoinsPrice": 60,
+            "DiamondPrice": 30,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 2",
+            "CoinsPrice": 100,
+            "DiamondPrice": 50,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 3",
+            "CoinsPrice": 150,
+            "DiamondPrice": 75,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 4",
+            "CoinsPrice": 200,
+            "DiamondPrice": 100,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 5",
+            "CoinsPrice": 250,
+            "DiamondPrice": 125,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 6",
+            "CoinsPrice": 300,
+            "DiamondPrice": 150,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 7",
+            "CoinsPrice": 400,
+            "DiamondPrice": 200,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 8",
+            "CoinsPrice": 450,
+            "DiamondPrice": 225,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 9",
+            "CoinsPrice": 500,
+            "DiamondPrice": 250,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 10",
+            "CoinsPrice": 600,
+            "DiamondPrice": 300,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 11",
+            "CoinsPrice": 700,
+            "DiamondPrice": 350,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Beard 12",
+            "CoinsPrice": 800,
+            "DiamondPrice": 400,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Male Hair 1",
+            "CoinsPrice": 30,
+            "DiamondPrice": 15,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Male Hair 2",
+            "CoinsPrice": 60,
+            "DiamondPrice": 30,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Male Hair 3",
+            "CoinsPrice": 90,
+            "DiamondPrice": 45,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Male Hair 4",
+            "CoinsPrice": 120,
+            "DiamondPrice": 60,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Male Hair 5",
+            "CoinsPrice": 150,
+            "DiamondPrice": 75,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Male Hair 6",
+            "CoinsPrice": 200,
+            "DiamondPrice": 100,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Male Hair 7",
+            "CoinsPrice": 250,
+            "DiamondPrice": 125,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Male Hair 8",
+            "CoinsPrice": 280,
+            "DiamondPrice": 140,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Male Hair 9",
+            "CoinsPrice": 300,
+            "DiamondPrice": 150,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Male Hair 10",
+            "CoinsPrice": 320,
+            "DiamondPrice": 160,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Male Hair 11",
+            "CoinsPrice": 340,
+            "DiamondPrice": 170,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Female Hair 1",
+            "CoinsPrice": 0,
+            "DiamondPrice": 0,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Female Hair 2",
+            "CoinsPrice": 60,
+            "DiamondPrice": 30,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Female Hair 3",
+            "CoinsPrice": 80,
+            "DiamondPrice": 40,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Female Hair 4",
+            "CoinsPrice": 100,
+            "DiamondPrice": 50,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Female Hair 5",
+            "CoinsPrice": 120,
+            "DiamondPrice": 60,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Bag 1",
+            "CoinsPrice": 80,
+            "DiamondPrice": 40,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Bag 2",
+            "CoinsPrice": 120,
+            "DiamondPrice": 60,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Goggles 1",
+            "CoinsPrice": 60,
+            "DiamondPrice": 30,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Goggles 2",
+            "CoinsPrice": 80,
+            "DiamondPrice": 40,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Goggles 3",
+            "CoinsPrice": 100,
+            "DiamondPrice": 50,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Goggles 4",
+            "CoinsPrice": 120,
+            "DiamondPrice": 60,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Goggles 5",
+            "CoinsPrice": 140,
+            "DiamondPrice": 70,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Goggles 6",
+            "CoinsPrice": 150,
+            "DiamondPrice": 75,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Earmuffs",
+            "CoinsPrice": 200,
+            "DiamondPrice": 100,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Hat 1",
+            "CoinsPrice": 100,
+            "DiamondPrice": 50,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Hat 2",
+            "CoinsPrice": 200,
+            "DiamondPrice": 100,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Hat 3",
+            "CoinsPrice": 300,
+            "DiamondPrice": 150,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Hat 4",
+            "CoinsPrice": 400,
+            "DiamondPrice": 200,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Hat 5",
+            "CoinsPrice": 500,
+            "DiamondPrice": 250,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Helmet 1",
+            "CoinsPrice": 300,
+            "DiamondPrice": 150,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Helmet 2",
+            "CoinsPrice": 400,
+            "DiamondPrice": 200,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Helmet 3",
+            "CoinsPrice": 500,
+            "DiamondPrice": 250,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Helmet 4",
+            "CoinsPrice": 600,
+            "DiamondPrice": 300,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "NVG 1",
+            "CoinsPrice": 300,
+            "DiamondPrice": 150,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "NVG 2",
+            "CoinsPrice": 400,
+            "DiamondPrice": 200,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "NVG 3",
+            "CoinsPrice": 800,
+            "DiamondPrice": 400,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Walkie Talkie",
+            "CoinsPrice": 600,
+            "DiamondPrice": 300,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Radio",
+            "CoinsPrice": 1000,
+            "DiamondPrice": 500,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Equipment 1",
+            "CoinsPrice": 300,
+            "DiamondPrice": 150,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Equipment 2",
+            "CoinsPrice": 400,
+            "DiamondPrice": 200,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Equipment 3",
+            "CoinsPrice": 600,
+            "DiamondPrice": 300,
+            "AdsToUnlock": 2
+        },
+        {
+            "Name": "Equipment 4",
+            "CoinsPrice": 800,
+            "DiamondPrice": 400,
+            "AdsToUnlock": 2
+        }
+    ]
+}
