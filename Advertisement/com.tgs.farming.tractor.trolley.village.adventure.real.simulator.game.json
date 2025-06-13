@@ -2,7 +2,7 @@
     "AdmobAppId": "ca-app-pub-6514041450334421~5497514272",
     "UnityAppId": "4704705",
     "Banner": {
-        "Enabled": true,
+        "Enabled": false,
         "AdmobBanner": {
             "Ids": [
                 "ca-app-pub-6514041450334421/3786020890"
@@ -23,7 +23,7 @@
         "Ids": [
             "ca-app-pub-6514041450334421/4133505251"
         ],
-        "Enabled": true,
+        "Enabled": false,
         "Position": 5,
         "Width": 300,
         "Height": 250
@@ -85,7 +85,7 @@
         },
         {
             "Name": "PlayBtn",
-            "Enabled": true,
+            "Enabled": false,
             "AdNetworks": [
                 0,
                 1
@@ -93,7 +93,7 @@
         },
         {
             "Name": "SettingBtn",
-            "Enabled": true,
+            "Enabled": false,
             "AdNetworks": [
                 0,
                 1
@@ -101,7 +101,7 @@
         },
         {
             "Name": "Exit",
-            "Enabled": true,
+            "Enabled": false,
             "AdNetworks": [
                 0,
                 1
@@ -157,7 +157,7 @@
         },
         {
             "Name": "StoreOpen",
-            "Enabled": true,
+            "Enabled": false,
             "AdNetworks": [
                 0,
                 1
@@ -173,7 +173,7 @@
         },
         {
             "Name": "Home",
-            "Enabled": true,
+            "Enabled": false,
             "AdNetworks": [
                 0,
                 1
@@ -205,7 +205,7 @@
         },
         {
             "Name": "LevelFail",
-            "Enabled": true,
+            "Enabled": false,
             "AdNetworks": [
                 0,
                 1
@@ -213,7 +213,7 @@
         },
         {
             "Name": "Gameplay",
-            "Enabled": true,
+            "Enabled": false,
             "AdNetworks": [
                 0,
                 1
