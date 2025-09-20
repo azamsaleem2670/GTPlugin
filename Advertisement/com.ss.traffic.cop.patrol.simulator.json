@@ -77,7 +77,7 @@
   "Events": [
     {
       "Name": "GameStart",
-      "Enabled": false,
+      "Enabled": true,
       "AdNetworks": [
         0,
         1
@@ -93,7 +93,7 @@
     },
     {
       "Name": "SettingBtn",
-      "Enabled": true,
+      "Enabled": false,
       "AdNetworks": [
         0,
         1
@@ -108,48 +108,8 @@
       ]
     },
     {
-      "Name": "ModeSelect",
-      "Enabled": true,
-      "AdNetworks": [
-        0,
-        1
-      ]
-    },
-    {
-      "Name": "LevelSelect",
-      "Enabled": true,
-      "AdNetworks": [
-        0,
-        1
-      ]
-    },
-    {
-      "Name": "ItemSelect",
-      "Enabled": true,
-      "AdNetworks": [
-        0,
-        1
-      ]
-    },
-    {
       "Name": "VehicleSelect",
-      "Enabled": true,
-      "AdNetworks": [
-        0,
-        1
-      ]
-    },
-    {
-      "Name": "CharacterSelect",
-      "Enabled": true,
-      "AdNetworks": [
-        0,
-        1
-      ]
-    },
-    {
-      "Name": "TeamSelect",
-      "Enabled": true,
+      "Enabled": false,
       "AdNetworks": [
         0,
         1
@@ -157,7 +117,7 @@
     },
     {
       "Name": "StoreOpen",
-      "Enabled": true,
+      "Enabled": false,
       "AdNetworks": [
         0,
         1
@@ -181,7 +141,7 @@
     },
     {
       "Name": "Next",
-      "Enabled": true,
+      "Enabled": false,
       "AdNetworks": [
         0,
         1
@@ -189,7 +149,7 @@
     },
     {
       "Name": "Retry",
-      "Enabled": true,
+      "Enabled": false,
       "AdNetworks": [
         0,
         1
@@ -205,7 +165,7 @@
     },
     {
       "Name": "LevelFail",
-      "Enabled": true,
+      "Enabled": false,
       "AdNetworks": [
         0,
         1
