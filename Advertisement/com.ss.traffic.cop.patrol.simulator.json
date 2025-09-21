@@ -173,7 +173,7 @@
     },
     {
       "Name": "Gameplay",
-      "Enabled": true,
+      "Enabled": false,
       "AdNetworks": [
         0,
         1
