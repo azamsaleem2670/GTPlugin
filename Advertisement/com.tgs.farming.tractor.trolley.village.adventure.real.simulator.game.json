@@ -79,8 +79,8 @@
             "Name": "GameStart",
             "Enabled": false,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
@@ -95,136 +95,136 @@
             "Name": "SettingBtn",
             "Enabled": false,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "Exit",
             "Enabled": false,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "ModeSelect",
             "Enabled": false,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "LevelSelect",
             "Enabled": false,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "ItemSelect",
             "Enabled": false,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "VehicleSelect",
             "Enabled": false,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "CharacterSelect",
             "Enabled": true,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "TeamSelect",
             "Enabled": false,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "StoreOpen",
             "Enabled": false,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "Pause",
             "Enabled": true,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "Home",
             "Enabled": false,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "Next",
             "Enabled": false,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "Retry",
             "Enabled": false,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "LevelComplete",
             "Enabled": true,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "LevelFail",
             "Enabled": false,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "Gameplay",
             "Enabled": true,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         },
         {
             "Name": "Rewarded",
             "Enabled": true,
             "AdNetworks": [
-                1,
-                0
+                0,
+                1
             ]
         }
     ],
