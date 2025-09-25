@@ -5,7 +5,7 @@
         "Enabled": true,
         "AdmobBanner": {
             "Ids": [
-                "ca-app-pub-6514041450334421/3786020890"
+                "ca-app-pub-6514041450334421/7655175146"
             ],
             "Position": 0,
             "Size": 4
@@ -21,7 +21,7 @@
     },
     "AdmobAdaptiveBanner": {
         "Ids": [
-            "ca-app-pub-6514041450334421/4133505251"
+            "ca-app-pub-6514041450334421/4729080163"
         ],
         "Enabled": false,
         "Position": 5,
