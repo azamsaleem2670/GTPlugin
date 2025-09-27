@@ -1,11 +1,11 @@
 {
-  "AdmobAppId": "ca-app-pub-6514041450334421~5510451559",
-  "UnityAppId": "4631787",
+  "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
+  "UnityAppId": "5952513",
   "Banner": {
     "Enabled": true,
     "AdmobBanner": {
       "Ids": [
-        "ca-app-pub-6514041450334421/8949582190"
+        "ca-app-pub-3940256099942544/6300978111"
       ],
       "Position": 0,
       "Size": 4
@@ -21,7 +21,7 @@
   },
   "AdmobAdaptiveBanner": {
     "Ids": [
-      "ca-app-pub-6514041450334421/8339208104"
+      "ca-app-pub-3940256099942544/6300978111"
     ],
     "Enabled": true,
     "Position": 5,
@@ -33,28 +33,28 @@
       "Name": "AppOpen",
       "Enabled": true,
       "Ids": [
-        "ca-app-pub-6514041450334421/3697255513"
+        "ca-app-pub-3940256099942544/9257395921"
       ]
     },
     {
       "Name": "Interstitial",
       "Enabled": true,
       "Ids": [
-        "ca-app-pub-6514041450334421/8353905570"
+        "ca-app-pub-3940256099942544/1033173712"
       ]
     },
     {
       "Name": "Rewarded",
       "Enabled": true,
       "Ids": [
-        "ca-app-pub-6514041450334421/9786406745"
+        "ca-app-pub-3940256099942544/5224354917"
       ]
     },
     {
       "Name": "RewardedInterstitial",
       "Enabled": true,
       "Ids": [
-        "ca-app-pub-6514041450334421/2592929541"
+        "ca-app-pub-3940256099942544/5354046379"
       ]
     }
   ],
